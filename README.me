@@ -1,0 +1,31 @@
+capstone
+Digita:
+
+Understanding Advertising Creative
+Presentation https://drive.google.com/drive/folders/1ROdH2bQmJ1z6IisExzwFxlVSs8cj4li6
+Description: Running machine learning over digital creatives to gain insights on industry trends
+
+Motivation:
+
+Eight years experience working in digital advertising helping companies better understand what features in creative are driving KPIs and how messaging is altering consumer perception.
+
+EDA OVERVIEW:
+Scrapy and Splash were employed to scrap advertising creative off MOAT. 
+After calling for a predefined company, the code captures a JSON file being pushed through an AJAX call that is updated using JAVA on the site. 
+Once gathered, meta data regarding the image is stored in a dataframe along with a link to the image which is saved down onto the hard drive.
+Upon completion of collection and cleaning, the image is then sent into Google’s Vision AI API and processed. 
+Currently three modules are loaded into the system which read and pass back all the text, labels the creative, and finally passes back what colors are being used and what fraction of the creative they take up.
+
+CONCLUSION
+What did you learn about your data?
+Creatives have very consistant verbage usage. 
+Keywords typically include straight forward call to actions with action oriented verbiage.
+White is by far the most common used color to keep spacing. Layout is critical and it must be simple. Lots of white space is used to keep the focus point on a few key areas of the creative.
+
+What did you learn about data science?
+Building and cleaning data sets is by far the most labor intensive part of the job. Most modules have already been built and are easy to work with.
+
+What advice would you give yourself?
+Don't scrape websites for data. It's too labor intensive
+Do you want to continue with this topic?
+Yes
