@@ -1,0 +1,3905 @@
+,Organization Name
+,Categories
+,Headquarters Location
+,Description
+,Founded Date
+,1
+,Epic Games
+,"Developer Platform, Gaming, Video Games"
+,"Cary, North Carolina, United States"
+,Epic Games is an American video game development company that creates games and offering its game engine technology to other developers.
+,1991
+,2
+,Uber
+,"Customer Service, Mobile Apps, Public Transportation, Ride Sharing, Transportation"
+,"San Francisco, California, United States"
+,"Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request."
+,Mar 2009
+,3
+,CrowdStrike
+,"Cyber Security, Machine Learning, Network Security, SaaS, Security"
+,"Sunnyvale, California, United States"
+,CrowdStrike is a cybersecurity technology firm pioneering cloud delivered next-generation endpoint protection and services.
+,2011
+,4
+,Facebook
+,"Messaging, Mobile, Mobile Apps, Social, Social Media, Social Network"
+,"Menlo Park, California, United States"
+,Facebook is an online social networking service that enables its users to connect with friends and family.
+,"Feb 4, 2004"
+,5
+,Impossible Foods
+,"Food and Beverage, Food Processing, Nutrition"
+,"Redwood City, California, United States"
+,Impossible Foods develops a new generation of meats and cheeses made entirely from plants.
+,2011
+,6
+,Beyond Meat
+,"Food and Beverage, Food Processing, Health Care"
+,"Manhattan Beach, California, United States"
+,Beyond Meat is planting The Future of Protein.
+,2009
+,7
+,NVIDIA
+,"Artificial Intelligence, Gaming, GPU, Hardware, Robotics, Software, Virtual Reality, Virtualization"
+,"Santa Clara, California, United States"
+,"NVIDIA manufactures integrated circuits for use in motherboard chip-sets, graphic processing units, and game consoles."
+,1993
+,8
+,Niantic
+,"Augmented Reality, Internet, Software, Video Games, Virtual Reality"
+,"San Francisco, California, United States"
+,Niantic builds augmented reality platform for current and future generations of AR hardware.
+,2010
+,9
+,Chewy
+,"E-Commerce, Pet, Retail"
+,"Dania, Florida, United States"
+,Chewy.com delivers pet happiness by conveniently shipping 500+ brands of pet food and goodies for free.
+,"Jun 1, 2011"
+,10
+,Techstars
+,"Finance, Financial Services, Venture Capital"
+,"Boulder, Colorado, United States"
+,Techstars is the worldwide network that helps entrepreneurs succeed.
+,"Oct 1, 2006"
+,11
+,GitHub
+,"Cloud Computing, Developer Tools, Internet, Project Management, Software"
+,"San Francisco, California, United States"
+,GitHub provides open-source code hosting services.
+,"Feb 29, 2008"
+,12
+,University of Michigan
+,"Business Intelligence, E-Learning, Education, Knowledge Management, Universities"
+,"Ann Arbor, Michigan, United States"
+,"The University of Michigan is a public research university located in Ann Arbor, Michigan, United States."
+,"Jan 1, 1817"
+,13
+,Apple
+,"Consumer Electronics, Electronics, Hardware, Mobile Devices, Retail, Software"
+,"Cupertino, California, United States"
+,"Apple is a multinational corporation that designs, manufactures, and markets consumer electronics, personal computers, and software."
+,"Apr 1, 1976"
+,14
+,Super League Gaming
+,"eSports, Gaming, Video Games"
+,"Santa Monica, California, United States"
+,Super League Gaming hosts recreational video game league events in movie theaters.
+,2014
+,15
+,Optimizely
+,"A/B Testing, Developer Tools, Internet, Personalization, SaaS, Software"
+,"San Francisco, California, United States"
+,Optimizely helps businesses test out different ways to make their websites or apps more effective.
+,Dec 2009
+,16
+,Collective Health
+,"Business Intelligence, Health Care, Information Technology, SaaS"
+,"San Francisco, California, United States"
+,Collective Health is a company providing an alternative to traditional health insurance.
+,"Oct 31, 2013"
+,17
+,FreightWaves
+,"Analytics, Artificial Intelligence, Financial Services, Freight Service, Logistics, Marketplace, Predictive Analytics, Railroad, SaaS, Transportation"
+,"Chattanooga, Tennessee, United States"
+,FreightWaves is a provider of data for the freight markets.
+,"Jun 1, 2016"
+,18
+,Citigroup
+,"Banking, Credit Cards, Financial Services, Wealth Management"
+,"New York, New York, United States"
+,Citigroup is a diversified financial services holding company that provides various financial products and services.
+,1812
+,19
+,Apollo
+,"Credit, Financial Services, Real Estate"
+,"New York, New York, United States"
+,"Apollo Global Management specializes in credit-oriented capital, real estate markets, and is a global asset management firm."
+,1990
+,20
+,Groupon
+,"Advertising, E-Commerce, Internet, Marketplace, Retail, Social Media"
+,"Chicago, Illinois, United States"
+,Groupon is a deal-of-the-day website that offers discounted gift certificates usable at local or national companies.
+,"Nov 11, 2008"
+,21
+,Postman
+,"Developer APIs, Developer Tools, Software"
+,"San Francisco, California, United States"
+,"Postman offers a platform for developers or enterprise to build, test, and debug their APIs."
+,Sep 2014
+,22
+,Looker
+,"Analytics, Business Intelligence, Data Visualization, Enterprise Software"
+,"Santa Cruz, California, United States"
+,Looker is a software company employing business intelligence to make data accessible to organizations and data analysts.
+,2011
+,23
+,Business Insider
+,"Digital Media, News"
+,"New York, New York, United States"
+,"Business Insider is an online platform that offers the latest business, celebrity, and technology news across America."
+,"May 1, 2007"
+,24
+,Boston Scientific
+,"Health Care, Manufacturing, Medical, Medical Device"
+,"Marlborough, Massachusetts, United States"
+,Boston Scientific is a leading innovator of medical solutions that improve the health of patients around the world.
+,1979
+,25
+,comScore
+,"Analytics, Consumer, SaaS, Social Media Marketing, Test and Measurement"
+,"Reston, Virginia, United States"
+,"comScore is a cross-platform measurement company that measures audiences, brands, and consumer behavior."
+,"Aug 1, 1999"
+,26
+,Twitter
+,"Blogging Platforms, Messaging, SMS, Social Media"
+,"San Francisco, California, United States"
+,Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as “tweets”.
+,"Mar 21, 2006"
+,27
+,WhatsApp
+,"Android, Messaging, Mobile, Subscription Service"
+,"Santa Clara, California, United States"
+,"WhatsApp is a proprietary, cross-platform, free instant messaging subscription service for smartphones."
+,2009
+,28
+,Cameo
+,"Gift, Marketplace, Social Media"
+,"Chicago, Illinois, United States"
+,Cameo is a marketplace where fans can book personalized video shoutouts from their favorite people.
+,2017
+,29
+,Hulu
+,"Content, Film, TV, Video, Video Streaming"
+,"Los Angeles, California, United States"
+,"Hulu is an online video service that offers a selection of hit shows, clips, movies, and documentaries through its website."
+,"Mar 1, 2007"
+,30
+,NEXT Future Transportation
+,"Artificial Intelligence, Automotive, Autonomous Vehicles, Computer Vision, Last Mile Transportation, Logistics, Public Transportation, Robotics, Smart Cities, Transportation"
+,"San Jose, California, United States"
+,"Designs, manufactures, and distributes advanced electric vehicles and robotic systems transportation and logistics"
+,"Feb 27, 2015"
+,31
+,Slack
+,"Collaboration, Enterprise Software, Messaging, Real Time, SaaS"
+,"San Francisco, California, United States"
+,Slack is an enterprise software platform that allows teams and businesses of all sizes to communicate effectively.
+,"Jan 1, 2009"
+,32
+,Massachusetts Institute of Technology - MIT
+,"Art, Artificial Intelligence, Education, Health Care, Health Diagnostics, Innovation Management, Medical, Medical Device, Product Research, Training"
+,"Cambridge, Massachusetts, United States"
+,"MIT is a research university that conducts research and offers educational courses in science, technology, and engineering."
+,"Apr 10, 1861"
+,33
+,"Valimail, Inc."
+,"Cyber Security, Email, Internet"
+,"San Francisco, California, United States"
+,"Valimail offers comprehensive solution to stop fake email, protecting brands, and helping ensure compliance."
+,"Mar 1, 2015"
+,34
+,Square
+,"Finance, FinTech, Hardware, Mobile, Mobile Payments, Payments, Software"
+,"San Francisco, California, United States"
+,Square is a merchant services aggregator and mobile payment company that aims to simplify commerce through technology.
+,"Feb 1, 2009"
+,35
+,Stitch Fix
+,"E-Commerce, Fashion, Retail"
+,"San Francisco, California, United States"
+,Stitch Fix is a personal styling platform that delivers curated and personalized apparel and accessory items for women.
+,Feb 2011
+,36
+,Tesla
+,"Automotive, Autonomous Vehicles, Electronics, Innovation Management"
+,"Palo Alto, California, United States"
+,Tesla Motors accelerates the transition to electric mobility with a full range of increasingly affordable electric cars.
+,"Jan 1, 2003"
+,37
+,Tinder
+,"Dating, Mobile, Search Engine, Social Media"
+,"West Hollywood, California, United States"
+,Tinder anonymously finds people nearby that like each other and connects them if they are both interested.
+,"Sep 1, 2012"
+,38
+,Helium
+,"Blockchain, Cryptocurrency, Internet of Things, Telecommunications, Wireless"
+,"San Francisco, California, United States"
+,The world's first peer-to-peer wireless network.
+,"Jul 1, 2013"
+,39
+,The Athletic
+,"Journalism, News, Sports"
+,"San Francisco, California, United States"
+,"The Athletic is a subscription-based sports media publisher with smart, in-depth sports coverage in 15+ US and Canadian markets."
+,"Nov 6, 2015"
+,40
+,Quora
+,"Information Services, Internet, Machine Learning, Product Design, Q&A, Social Media"
+,"Mountain View, California, United States"
+,Quora is a Q&A platform with a mission to share and grow the world's knowledge.
+,"Jun 1, 2009"
+,41
+,Mayo Clinic
+,"Biotechnology, Health Care, Medical, Non Profit"
+,"Rochester, Minnesota, United States"
+,MayoClinic a nonprofit medical practice and medical research group
+,1919
+,42
+,Rent the Runway
+,"Consumer Goods, E-Commerce, Fashion, Retail"
+,"New York, New York, United States"
+,Rent the Runway is an online e-commerce website that allows women to rent designer apparel and accessories.
+,"Nov 9, 2009"
+,43
+,Netflix
+,"Digital Entertainment, Media and Entertainment, TV, Video, Video Streaming"
+,"Los Gatos, California, United States"
+,"Netflix is an online platform that enables users to watch TV shows and movies on smart TVs, PCs, Macs, mobiles, tablets, and so on."
+,"Jan 1, 1997"
+,44
+,Lenovo
+,"Computer, Electronics, Hardware, Manufacturing, Mobile"
+,"Morrisville, North Carolina, United States"
+,Lenovo Group is a Chinese multinational computer technology company.
+,1984
+,45
+,Cleveland Clinic
+,"Health Care, Hospital, Non Profit"
+,"Cleveland, Ohio, United States"
+,Cleveland Clinic is a non-profit academic medical center that integrates clinical and hospital care with research and education.
+,1921
+,46
+,Glassdoor
+,"Career Planning, Digital Media, Employment, Recruiting, Social Media"
+,"Mill Valley, California, United States"
+,Glassdoor operates an online jobs and career community.
+,Jun 2007
+,47
+,Quibi
+,"Media and Entertainment, TV, TV Production"
+,"Los Angeles, California, United States"
+,Quibi is a media company developing short-form media content designed for smartphones.
+,2018
+,48
+,Cloudflare
+,"Ad Server, Advertising, Analytics, Enterprise Software, Security, Web Hosting"
+,"San Francisco, California, United States"
+,Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online.
+,Jun 2009
+,49
+,Warby Parker
+,"E-Commerce, Fashion, Retail"
+,"New York, New York, United States"
+,Warby Parker is a lifestyle brand that offer designer eyewear at a revolutionary price while leading way for socially conscious businesses.
+,2010
+,50
+,Medallia
+,"Customer Service, Enterprise Software, Loyalty Programs, SaaS, Text Analytics"
+,"San Mateo, California, United States"
+,Medallia helps companies win through customer and employee experience.
+,Sep 2001
+,51
+,Ginkgo Bioworks
+,"Alternative Medicine, Biopharma, Biotechnology, Chemical, Health Care, Life Science, Medical, Nutrition"
+,"Boston, Massachusetts, United States"
+,Ginkgo designs custom microbes for customers across multiple markets.
+,2009
+,52
+,SecurityScorecard
+,"Cloud Computing, Cloud Infrastructure, Cyber Security, Information Technology, Risk Management, SaaS, Security"
+,"New York, New York, United States"
+,SecurityScorecard is a security platform used for predicting and remediating potential security risks.
+,2013
+,53
+,Avi Networks
+,"Analytics, Cloud Data Services, Cloud Infrastructure"
+,"Santa Clara, California, United States"
+,"Avi Networks drives automation and intelligence across multi-cloud environments with intent-based application services, including LB and WAF"
+,2012
+,54
+,DataRobot
+,"Artificial Intelligence, Enterprise Software, Information Technology, Machine Learning, Predictive Analytics, SaaS"
+,"Boston, Massachusetts, United States"
+,DataRobot provides a predictive analytics platform to rapidly build and deploy predictive models the cloud or an enterprise.
+,"Jun 1, 2012"
+,55
+,Merck
+,"Biotechnology, Health Care, Medical"
+,"Kenilworth, New Jersey, United States"
+,Merck is a biopharmaceutical company that offers medicines and vaccines for various diseases.
+,1891
+,56
+,General Electric (GE)
+,"Electronics, Energy, Energy Management, Finance, FinTech, Manufacturing"
+,"Fairfield, Connecticut, United States"
+,General Electric Company offers infrastructure and financial services worldwide.
+,Jan 1878
+,57
+,GoTenna
+,"Consumer Electronics, Hardware, Messaging, Mobile, Privacy, Software"
+,"Brooklyn, New York, United States"
+,GoTenna is mobile mesh networking company that provides technologies for off-grid and decentralized communications.
+,"Nov 1, 2012"
+,58
+,AngelList
+,"Angel Investment, Finance, Funding Platform, Internet"
+,"San Francisco, California, United States"
+,"AngelList is a U.S. website for startups, angel investors, and job-seekers looking to work at startups."
+,"Jan 1, 2010"
+,59
+,Instacart
+,"Delivery, Delivery Service, E-Commerce, Grocery, Same Day Delivery"
+,"San Francisco, California, United States"
+,Instacart delivers groceries and home essentials from a variety of local stores.
+,2012
+,60
+,Blend
+,"Enterprise, Enterprise Software, Financial Services, FinTech, Home Services, SaaS"
+,"San Francisco, California, United States"
+,Blend is a SaaS platform for lenders to speed up and simplify applications for mortgages and consumer loans.
+,"May 1, 2012"
+,61
+,Postmates
+,"Delivery, Food Delivery, Logistics, Same Day Delivery, Transportation"
+,"San Francisco, California, United States"
+,"Postmates powers local, on-demand logistics focused on fast deliveries from any type of merchant at scale."
+,Mar 2011
+,62
+,Cybereason
+,"Computer, Cyber Security, Enterprise Software, Intrusion Detection, Network Security, Real Time"
+,"Boston, Massachusetts, United States"
+,Cybereason's Endpoint Detection and Response platform identifies in real time all the elements of cyber attacks for effective response
+,2012
+,63
+,Microsoft
+,"Artificial Intelligence, Cloud Computing, Collaboration, Consumer Electronics, Developer Tools, Enterprise Software, Operating Systems"
+,"Redmond, Washington, United States"
+,"Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services."
+,"Apr 4, 1975"
+,64
+,Bubble
+,"Education, Software, Training, Web Development"
+,"New York, New York, United States"
+,Bubble is a visual programming language for web and mobile applications.
+,"Jun 20, 2012"
+,65
+,Anheuser-Busch InBev
+,"Brewing, Consumer Goods, Food and Beverage"
+,"New York, New York, United States"
+,"Anheuser-Busch InBev is a brewer and provider of consumer products that has a strong, balanced portfolio."
+,1952
+,66
+,CreatorIQ
+,"Advertising Platforms, Brand Marketing, SaaS, Social Media, Social Media Marketing"
+,"Culver City, California, United States"
+,CreatorIQ's Enterprise Creator Cloud is the system of record for global companies to manage & optimize influencer-driven campaigns at scale.
+,2014
+,67
+,MongoDB
+,"Cloud Computing, Database, Open Source, PaaS, SaaS"
+,"New York, New York, United States"
+,MongoDB is a next-generation database that helps businesses transform their industries by harnessing the power of data.
+,"Nov 1, 2007"
+,68
+,ServiceNow
+,"Cloud Management, Enterprise Applications, Enterprise Software, IT Management, PaaS, SaaS"
+,"Santa Clara, California, United States"
+,"ServiceNow provides cloud-based solutions that define, structure, manage, and automate services for enterprise operations."
+,2004
+,69
+,Endgame
+,"Analytics, Computer, Enterprise Software, Network Security, Security"
+,"Arlington, Virginia, United States"
+,Endgame's endpoint protection platform protects the world’s data from advanced attacks.
+,2008
+,70
+,Lockheed Martin
+,"Cyber Security, National Security, Security"
+,"Bethesda, Maryland, United States"
+,"Lockheed Martin is a security company engaged in the research, development, and manufacture of advanced technology systems and products."
+,"Mar 15, 1995"
+,71
+,Getaround
+,"Car Sharing, Collaborative Consumption, Mobile, Peer to Peer, Transportation"
+,"San Francisco, California, United States"
+,Getaround empowers people to instantly rent and drive great cars shared by people in their city.
+,"Sep 10, 2009"
+,72
+,Docker
+,"Cloud Computing, Enterprise Software, Open Source, SaaS"
+,"San Francisco, California, United States"
+,"Docker develops an open platform for building, shipping, and running distributed applications."
+,"Jan 1, 2010"
+,73
+,Instagram
+,"Mobile, Photo Sharing, Photography, Social Media"
+,"Menlo Park, California, United States"
+,"Instagram is a free photo sharing application that enables its users to take photos, apply filters, and share them on social networks."
+,"Oct 6, 2010"
+,74
+,SiFive
+,"Artificial Intelligence, Electronics, Internet of Things, Manufacturing, Semiconductor, Wearables"
+,"San Mateo, California, United States"
+,SiFive designs chips for the semiconductor industry.
+,Sep 2015
+,75
+,Fitbit
+,"Cloud Computing, Fitness, Health Care, Personal Health, Wearables"
+,"San Francisco, California, United States"
+,"Fitbit offers compact, wireless, wearable sensors that track a person’s daily activities in order to promote a healthy lifestyle."
+,"May 1, 2007"
+,76
+,Robinhood
+,"Bitcoin, Cryptocurrency, Ethereum, Finance, Financial Services, FinTech, Mobile, Personal Finance"
+,"Menlo Park, California, United States"
+,Robinhood is a stock brokerage that allows customers to buy and sell U.S. listed stocks and ETFs with zero commission.
+,2013
+,77
+,WP Engine
+,"Blogging Platforms, Content, Enterprise Software, SaaS, Web Development, Web Hosting"
+,"Austin, Texas, United States"
+,WP Engine is a WordPress digital experience platform.
+,"Mar 1, 2010"
+,78
+,Recorded Future
+,"Analytics, Cyber Security, Machine Learning, Real Time"
+,"Somerville, Massachusetts, United States"
+,Recorded Future is a technology company specializing in threat intelligence powered by machine learning.
+,2009
+,79
+,Wayfair
+,"E-Commerce, Furniture, Home Decor, Retail"
+,"Boston, Massachusetts, United States"
+,"Wayfair is an online retailer of home products for bedroom, living room, kitchen and dining, home entertainment, bathroom, and more."
+,"Aug 1, 2002"
+,80
+,Jones Lang LaSalle (JLL)
+,"Commercial, Real Estate"
+,"Chicago, Illinois, United States"
+,"Jones Lang LaSalle, a financial and professional services firm, specializes in commercial real estate services and investment management."
+,1783
+,81
+,NPR
+,"Broadcasting, Digital Media, News"
+,"Washington, District of Columbia, United States"
+,NPR is a multimedia news organization and radio program producer that delivers national and international news broadcasts.
+,1970
+,82
+,LabCorp
+,"Biotechnology, Education, Health Care, Innovation Management, Medical"
+,"Burlington, North Carolina, United States"
+,LabCorp is a leading global life sciences company.
+,1976
+,83
+,SpaceX
+,"Aerospace, Manufacturing, Space Travel, Transportation"
+,"Hawthorne, California, United States"
+,"SpaceX is an aviation and aerospace company that designs, manufactures, and launches advanced rockets and spacecraft."
+,Jun 2002
+,84
+,Houseparty
+,"Internet, Mobile, Social Network, Video, Video Chat"
+,"San Francisco, California, United States"
+,Houseparty is a face-to-face social network that brings empathy to online communication.
+,"Feb 29, 2016"
+,85
+,Raytheon
+,"Aerospace, National Security, Security"
+,"Waltham, Massachusetts, United States"
+,"Raytheon is a defense contractor and corporation with manufacturing concentrations in weapons, military, and commercial electronics."
+,"Jul 7, 1922"
+,86
+,Rivian Automotive
+,"Automotive, Electric Vehicle, Transportation"
+,"Plymouth, Michigan, United States"
+,Rivian Automotive is an automotive technology company that develops products and services to advance the shift to sustainable mobility.
+,2009
+,87
+,BuzzFeed
+,"Digital Entertainment, Internet, Journalism, News, Publishing, Social, Social News, Video"
+,"New York, New York, United States"
+,BuzzFeed is a cross-platform digital media company delivering news and entertainment content to a global audience.
+,2006
+,88
+,Google
+,"Ad Network, Artificial Intelligence, Blogging Platforms, Collaboration, Email, Enterprise Software, Information Technology, Machine Learning, Search Engine, Video Streaming"
+,"Mountain View, California, United States"
+,Google is a multinational corporation that is specialized in internet-related services and products.
+,"Sep 4, 1998"
+,89
+,Roku
+,"Advertising Platforms, Consumer Electronics, Digital Entertainment, Hardware"
+,"Los Gatos, California, United States"
+,Roku pioneers streaming for the TV and aspires to power every TV in the world.
+,"Oct 1, 2002"
+,90
+,Grubhub
+,"Apps, E-Commerce, Food and Beverage, Food Delivery, Hospitality, Internet, iOS, Mobile Apps, Restaurants"
+,"Chicago, Illinois, United States"
+,"Grubhub, the nation's leading online and mobile food ordering and delivery marketplace dedicated to connecting diners with local restaurants"
+,2004
+,91
+,FireEye
+,"Cloud Security, Cyber Security, Network Security"
+,"Milpitas, California, United States"
+,FireEye is an intelligence-led security company that protects customers with innovative technology and expertise from the front lines.
+,2004
+,92
+,Trusted Insight
+,"Artificial Intelligence, Finance, FinTech, Hedge Funds, Machine Learning, Private Social Networking, Venture Capital"
+,"New York, New York, United States"
+,Trusted Insight is the leading Institutional Syndication Platform for Alternative Assets. Its members manage over $18 Trillion in AUM.
+,2010
+,93
+,Sweetgreen
+,"Food and Beverage, Hospitality, Organic Food, Supply Chain Management"
+,"Washington, District of Columbia, United States"
+,"Sweetgreen is a fast casual restaurant chain that serves simple, seasonal, healthy salads and grain bowls."
+,2007
+,94
+,Talkspace
+,"Consulting, Health Care, Psychology, Therapeutics"
+,"New York, New York, United States"
+,Talkspace is an online therapy startup that offers affordable and confidential therapy with network of professional and licensed therapists.
+,"Jun 1, 2012"
+,95
+,Unity Technologies
+,"3D Technology, Advertising, Analytics, Augmented Reality, Automotive, Enterprise Software, Film, Video Games, Virtual Reality"
+,"San Francisco, California, United States"
+,Unity is the creator the world’s most widely used real-time 3D development platform.
+,"Aug 2, 2004"
+,96
+,Refinery29
+,"Beauty, Digital Media, Fashion, Internet, Lifestyle, Media and Entertainment, News, Social, Video"
+,"New York, New York, United States"
+,Refinery29 is the leading digital media & entertainment company dedicated to inspiring young women to live an informed & well-rounded life.
+,2005
+,97
+,Omada Health
+,"Health Care, Medical, Therapeutics"
+,"San Francisco, California, United States"
+,A digital behavioral medicine company dedicated to inspiring and empowering people everywhere to live free of chronic illiness.
+,2011
+,98
+,Sure
+,"Insurance, Internet, Mobile Apps, Software"
+,"New York, New York, United States"
+,"SURE aims to make insurance accessible by demystifying the process, bringing transparency and ease to the insurance cycle."
+,"Oct 1, 2014"
+,99
+,Cognizant
+,"Consulting, Industrial Automation, Software"
+,"Teaneck, New Jersey, United States"
+,"Cognizant provides IT, consulting and BPO services."
+,"Jan 26, 1994"
+,100
+,Lennar Corporation
+,"Construction, Lifestyle, Real Estate"
+,"Miami, Florida, United States"
+,Lennar is a home building company providing new home construction and buying services in various states in the United States.
+,1954
+,101
+,TransPerfect
+,"Language Learning, Service Industry, Translation Service"
+,"New York, New York, United States"
+,TransPerfect is a language services company offering multilingual translation and interpreting solutions to multinational businesses.
+,1992
+,102
+,SignalFx
+,"Apps, Information Technology, Software"
+,"San Mateo, California, United States"
+,"SignalFx is a cloud monitoring platform for infrastructure, microservices, and applications."
+,"Feb 1, 2013"
+,103
+,Dollar Shave Club
+,"E-Commerce, Internet, Retail"
+,"Santa Monica, California, United States"
+,"Dollar Shave Club makes and delivers everything you need to look, feel, and shave like a million bucks."
+,2011
+,104
+,Trilogy Education Services
+,"Continuing Education, EdTech, Education, Training"
+,"New York, New York, United States"
+,Trilogy Education is a workforce accelerator that powers skills-based training programs in high-demand tech fields at leading universities.
+,Sep 2015
+,105
+,SurveyMonkey
+,"Human Resources, Market Research, Marketing, SaaS, Service Industry, Software"
+,"San Mateo, California, United States"
+,SurveyMonkey is a survey company which powers curious organizations to measure and act on the opinions that drive success.
+,1999
+,106
+,Beats Electronics
+,"Consumer Electronics, Hardware, Manufacturing, Media and Entertainment, Music, Software"
+,"Santa Monica, California, United States"
+,"Beats Electronics offers premium consumer headphones, earphones and speakers, software technology and streaming music subscription services."
+,2006
+,107
+,Nextdoor
+,"Communities, GovTech, Internet, Privacy, Private Social Networking, Social Media"
+,"San Francisco, California, United States"
+,Nextdoor is the world’s largest private communications platform for neighborhoods.
+,2010
+,108
+,Amazon Web Services
+,"Information Services, Information Technology, Software, Web Development"
+,"Seattle, Washington, United States"
+,Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+,2012
+,109
+,Credit Karma
+,"Credit, Finance, FinTech, Personal Finance"
+,"San Francisco, California, United States"
+,Credit Karma is a personal finance company that's focused on helping everyone make financial progress.
+,"Mar 8, 2007"
+,110
+,Symantec
+,"Computer, Cyber Security, Information Technology, Security"
+,"Mountain View, California, United States"
+,"Symantec provides security, storage, and systems management solutions that help consumers secure and manage their information."
+,1982
+,111
+,Stripe
+,"Credit Cards, Developer APIs, Internet, Payments, SaaS, Software"
+,"San Francisco, California, United States"
+,Stripe is a global technology company that builds economic infrastructure for the internet.
+,2010
+,112
+,Airbnb
+,"Hospitality, Marketplace, Peer to Peer, Sharing Economy, Travel, Travel Accommodations"
+,"San Francisco, California, United States"
+,"Airbnb is an online community marketplace for people to list, discover, and book accommodations around the world."
+,"Aug 11, 2008"
+,113
+,Indiegogo
+,"Crowdfunding, Finance, FinTech, Funding Platform, Hedge Funds"
+,"San Francisco, California, United States"
+,Indiegogo is a crowdfunding platform empowering people around the world to fund projects that matter to them.
+,"Jan 14, 2008"
+,114
+,Blue Origin
+,"Aerospace, Electronics, Manufacturing, Mining, National Security, Renewable Energy, Solar, Telecommunications"
+,"Kent, Washington, United States"
+,Blue Origin is an aerospace company that focuses on lowering the cost of spaceflight and helping to explore the solar system.
+,"Sep 8, 2000"
+,115
+,Oscar Health
+,"Health Care, Health Insurance, Information Technology, Insurance, InsurTech"
+,"New York, New York, United States"
+,"Oscar is a health insurance company that employs technology, design, and data to humanize health care."
+,"Nov 1, 2012"
+,116
+,uBiome
+,"Health Care, Machine Learning, Quantified Self"
+,"San Francisco, California, United States"
+,uBiome is a citizen science startup that sequences the human microbiome.
+,"Nov 1, 2012"
+,117
+,Zendesk
+,"Customer Service, Enterprise Software, SaaS"
+,"San Francisco, California, United States"
+,Zendesk is a customer service platform that builds software to empower organization and customer relationships.
+,"Oct 5, 2007"
+,118
+,Medium
+,"Internet, News, Publishing"
+,"San Francisco, California, United States"
+,Medium is a social publishing network that connects ideas and perspectives on topics that matter.
+,"Jul 18, 2011"
+,119
+,Nutanix
+,"Data Center, Enterprise Software, Virtualization"
+,"San Jose, California, United States"
+,Nutanix is a virtualized datacenter platform that provides disruptive datacenter infrastructure solutions for implementing enterprise-class.
+,2009
+,120
+,Acutus Medical
+,"Biotechnology, Health Care, Health Diagnostics, Medical Device"
+,"San Diego, California, United States"
+,Acutus Medical develops medical technologies to treat complex cardiac arrhythmia.
+,2011
+,121
+,Twilio
+,"Enterprise Software, Internet, SMS, VoIP"
+,"San Francisco, California, United States"
+,"Twilio is a cloud communication company that enables users to use standard web languages to build voice, VoIP, and SMS apps via a web API."
+,"Jun 30, 2008"
+,122
+,Marqeta
+,"FinTech, Payments, Transaction Processing"
+,"Oakland, California, United States"
+,Marqeta provides access to a developer-friendly Issuer Processor API for commerce innovators.
+,2010
+,123
+,Hazelcast
+,"Cloud Computing, Enterprise Software, Open Source, Software"
+,"Palo Alto, California, United States"
+,"Hazelcast is a provider of an open-source in-memory computing platform used for caching, stream processing, and microservices."
+,"Dec 20, 2008"
+,124
+,Highspot
+,"Enterprise Software, SaaS, Sales Automation, Software"
+,"Seattle, Washington, United States"
+,Highspot powers modern businesses with the industry’s highest-rated sales enablement platform that sales reps love.
+,2012
+,125
+,Goop
+,"Beauty, Content, E-Commerce, Fashion, Health Care, Travel, Wellness"
+,"Los Angeles, California, United States"
+,Goop is a lifestyle brand providing digital content and commerce.
+,2008
+,126
+,Cross River Bank
+,"Banking, Finance"
+,"Fort Lee, New Jersey, United States"
+,"Cross River Bank, a financial institution in the banking industry, offers consumers and businesses with banking services and loan products."
+,2008
+,127
+,Zscaler
+,"Cloud Security, Cyber Security, Enterprise Software, Security"
+,"San Jose, California, United States"
+,Zscaler is a global cloud-based information security company.
+,2008
+,128
+,Cohesity
+,"Analytics, Cloud Computing, Data Center, Data Storage, Information Technology"
+,"San Jose, California, United States"
+,"Cohesity delivers the industry’s first hyperconverged secondary storage for backup, test/dev, file services, and analytic datasets."
+,Jun 2013
+,129
+,Discord
+,"Apps, Gaming, Mobile, Video Chat"
+,"San Francisco, California, United States"
+,"Discord is a voice, video, and text chat app designed specifically for gamers."
+,"May 1, 2012"
+,130
+,Cloudera
+,"Analytics, Big Data, Cloud Computing, Cloud Data Services, Cloud Infrastructure, Cloud Management, Enterprise Software, Machine Learning, Open Source"
+,"Palo Alto, California, United States"
+,"Cloudera delivers an Enterprise Data Cloud for any data, anywhere, from the Edge to AI."
+,"Oct 13, 2008"
+,131
+,Vox Media
+,"Advertising Platforms, Digital Media, Internet, Journalism, Lifestyle, Sports"
+,"Washington, District of Columbia, United States"
+,Vox Media is an American digital media company.
+,"Jul 14, 2003"
+,132
+,Allbirds
+,"Fashion, Manufacturing, Shoes, Shopping"
+,"San Francisco, California, United States"
+,Allbirds specializes in manufacturing eco-friendly wool shoes.
+,2015
+,133
+,Arrive Logistics
+,"Logistics, Shipping Broker, Transportation"
+,"Austin, Texas, United States"
+,Arrive Logistics is a carrier and customer-centric logistics company.
+,"Jul 1, 2014"
+,134
+,Acumatica
+,"Cloud Computing, CRM, Developer Tools, Enterprise Software, SaaS, Software"
+,"Kirkland, Washington, United States"
+,Acumatica is a provider of cloud business management software that empowers small and mid-size businesses to unlock their potential.
+,2006
+,135
+,Xealth
+,"Digital Marketing, Health Care, Health Diagnostics, Information Technology, Personal Health"
+,"Seattle, Washington, United States"
+,"Xealth is a platform for digital health, enabling clinicians to prescribe and monitor digital tools from within the EHR workflow."
+,2015
+,136
+,Qualtrics
+,"Consumer, Market Research, SaaS"
+,"Provo, Utah, United States"
+,"Qualtrics is a single system of record for all experience data, managing customer, product, employee, and brand experiences on one platform."
+,2002
+,137
+,Dish Network
+,"Audio, Consumer Electronics, Telecommunications"
+,"Englewood, Colorado, United States"
+,"Dish Network is a satellite service provider that offers satellite television, audio programming, and interactive television services."
+,1980
+,138
+,Argo AI
+,"Artificial Intelligence, Autonomous Vehicles, Robotics"
+,"Pittsburgh, Pennsylvania, United States"
+,"Argo AI is a self-driving technology company that's building a safer, more convenient, and accessible way for everyone to get around."
+,2016
+,139
+,Vice Media
+,"Media and Entertainment, News, Publishing, Video, Video Streaming"
+,"Brooklyn, New York, United States"
+,Vice Media is a North American digital media and broadcasting company.
+,1994
+,140
+,Kraken
+,"Bitcoin, Cryptocurrency, Financial Exchanges, Financial Services, FinTech, Trading Platform"
+,"San Francisco, California, United States"
+,Kraken is a US-based cryptocurrency exchange that provides cryptocurrency to fiat trading and provides information to Bloomberg Terminal.
+,Jul 2011
+,141
+,Cvent
+,"Business Intelligence, Event Management, Events, Hospitality, Information Technology, Media and Entertainment, Meeting Software, Procurement, Software"
+,"Mclean, Virginia, United States"
+,Cvent is an event management platform enabling planners to manage all aspects of an event.
+,"Jan 30, 1999"
+,142
+,The Trade Desk
+,"Digital Media, Internet, Social, Video Advertising"
+,"Ventura, California, United States"
+,The Trade Desk is an online demand-side platform that provides buying tools for digital media buyers.
+,"Oct 1, 2009"
+,143
+,LiveRamp
+,"Advertising, Advertising Platforms, Brand Marketing, Data Integration"
+,"San Francisco, California, United States"
+,LiveRamp makes it easy and safe to use marketing data anywhere.
+,2012
+,144
+,NFP
+,"Consulting, Financial Services, Insurance, Wealth Management"
+,"New York, New York, United States"
+,NFP is a leading insurance broker and consultant that cares deeply about our employees' and clients' well-being.
+,1998
+,145
+,token
+,"FinTech, Payments, Real Time, Software"
+,"San Francisco, California, United States"
+,Token creates bank-hosted payment system specifically designed for the digital era.
+,Jan 2015
+,146
+,SentinelOne
+,"Computer, Cyber Security, Network Security, Security"
+,"Mountain View, California, United States"
+,"SentinelOne delivers autonomous endpoint protection that successfully prevents, detects and responds to attacks across all major vectors."
+,2013
+,147
+,Goldman Sachs
+,"Banking, Finance, Financial Services, Security, Venture Capital"
+,"New York, New York, United States"
+,"Goldman Sachs is a multinational financial services firm providing securities, and investment banking and management services."
+,"Jan 1, 1869"
+,148
+,Kohlberg Kravis Roberts
+,"Angel Investment, Asset Management, Finance, Financial Services, Impact Investing, Infrastructure, Real Estate, Venture Capital"
+,"New York, New York, United States"
+,"Kohlberg Kravis Roberts is a global alternative asset manager focusing on private equity, fixed income, and capital markets."
+,1976
+,149
+,Houzz
+,"Architecture, Home Improvement, Home Renovation, Interior Design, Smart Home"
+,"Palo Alto, California, United States"
+,"Houzz is an online platform for home remodeling, architecture, interior design, decorating, landscaping, and home improvement."
+,2009
+,150
+,Tally Technologies
+,"Credit Cards, Financial Services, FinTech, Mobile Apps"
+,"San Francisco, California, United States"
+,Tally is a financial automation company that helps users manage multiple credit cards.
+,2015
+,151
+,CloudBees
+,"Business Development, Cloud Computing, Cloud Data Services, Delivery, Enterprise Software, Software"
+,"San Jose, California, United States"
+,CloudBees develops an end-to-end automated software delivery system that allows companies to balance governance and developer freedom.
+,"Mar 9, 2010"
+,152
+,Workday
+,"Enterprise Software, Finance, FinTech, Human Resources, SaaS, Web Development"
+,"Pleasanton, California, United States"
+,Workday provides SaaS-based enterprise solutions for a company's human resources and financial management activities.
+,"Mar 1, 2005"
+,153
+,Carbon
+,"3D Printing, Industrial Engineering, Manufacturing, Mechanical Engineering, Robotics"
+,"Redwood City, California, United States"
+,"Carbon is a company that provides high-tech, waste reducing 3D printing services."
+,2013
+,154
+,Redfin
+,"Internet, Property Management, Real Estate"
+,"Seattle, Washington, United States"
+,Redfin provides real estate search and brokerage services through a combination of real estate web platforms and access to live agents.
+,"Oct 1, 2004"
+,155
+,Roblox
+,"Developer Platform, Online Games, Online Portals, Video Games"
+,"San Mateo, California, United States"
+,Roblox is an online entertainment platform that helps power the imaginations of people around the world.
+,2004
+,156
+,Ripple
+,"Blockchain, Cryptocurrency, Financial Services, FinTech, Internet, Payments"
+,"San Francisco, California, United States"
+,Ripple provides one frictionless experience to send money globally using the power of blockchain.
+,2012
+,157
+,MasterClass
+,"Digital Media, Education, Internet"
+,"San Francisco, California, United States"
+,MasterClass offers online classes from the world's best.
+,2012
+,158
+,Sumo Logic
+,"Analytics, Big Data, Enterprise Software, Information Technology, SaaS, Security"
+,"Redwood City, California, United States"
+,"Sumo Logic, a log management and analytics service, transforms big data into sources of operations, security, and compliance intelligence."
+,2010
+,159
+,Turo
+,"Car Sharing, Marketplace, Peer to Peer, Recreational Vehicles, Transportation"
+,"San Francisco, California, United States"
+,Turo is a car sharing marketplace.
+,2009
+,160
+,Against Gravity
+,"Augmented Reality, Software, Virtual Reality"
+,"Seattle, Washington, United States"
+,Against Gravity is an augmented and virtual reality software company that operates in the technology industry.
+,"Apr 1, 2016"
+,161
+,Text IQ
+,"Artificial Intelligence, Compliance, Enterprise Software, Information Technology, Machine Learning"
+,"San Francisco, California, United States"
+,Text IQ uses groundbreaking AI technology to protect companies from high-stakes legal and compliance disasters.
+,2014
+,162
+,Button
+,"Enterprise Software, Mobile, Mobile Apps, Software"
+,"New York, New York, United States"
+,Button is the mobile commerce platform that maximizes the value of every tap.
+,"May 1, 2014"
+,163
+,GoPro
+,"3D Technology, Consumer Electronics, Hardware, Photography, Software, Video, Wearables"
+,"San Mateo, California, United States"
+,GoPro is a brand of personal cameras used in extreme action video photography.
+,"Jan 1, 2002"
+,164
+,Livongo
+,"Health Care, Health Diagnostics, Information Technology, Wellness"
+,"Mountain View, California, United States"
+,Livongo is empowering people with chronic conditions to live a better life.
+,2014
+,165
+,Auth0
+,"Developer APIs, Enterprise Software, Identity Management, Information Technology, Internet, Software"
+,"Bellevue, Washington, United States"
+,Auth0 operates a cloud based identity platform for developers.
+,"Feb 1, 2013"
+,166
+,Fireblocks
+,"Blockchain, Computer, Cyber Security, Software"
+,"New York, New York, United States"
+,Fireblocks is a Blockchain security service provider.
+,2018
+,167
+,Vacasa
+,"Adventure Travel, Tourism, Travel, Travel Accommodations, Vacation Rental"
+,"Portland, Oregon, United States"
+,"Vacasa is the largest U.S. vacation rental management company and currently manages more than 10,000 vacation homes around the world."
+,2009
+,168
+,ReviewTrackers
+,"Advertising, Enterprise Software, Marketing, Reputation"
+,"Chicago, Illinois, United States"
+,ReviewTrackers is a customer feedback software that is used to measure and transform the customer experience.
+,"May 25, 2012"
+,169
+,PatientsLikeMe
+,"Health Care, Medical, Wellness"
+,"Cambridge, Massachusetts, United States"
+,PatientsLikeMe is the world's largest personalized health network
+,2004
+,170
+,Kickstarter
+,"Crowdfunding, Crowdsourcing, Finance, FinTech, Funding Platform"
+,"Brooklyn, New York, United States"
+,"Kickstarter is a crowdfunding platform for creative projects such as movies, music, art, theater, games, comics, design, and photography."
+,Jan 2007
+,171
+,Chime
+,"Banking, Debit Cards, E-Commerce, FinTech, Mobile Payments"
+,"San Francisco, California, United States"
+,"Chime helps members avoid bank fees, save money automatically, and lead healthier financial lives."
+,2013
+,172
+,Data Plus Math
+,"Analytics, Data Mining"
+,"Boston, Massachusetts, United States"
+,Data Plus Math is a video advertising company that helps connect advertising exposures to real-world outcomes.
+,2016
+,173
+,Sonos
+,"Audio, Consumer Electronics, Hardware, Music, Wireless"
+,"Santa Barbara, California, United States"
+,Sonos is a wireless multi-room music system enabling users to play music anywhere in the house and control it using a smartphone.
+,"Jun 30, 2002"
+,174
+,Affirm
+,"Consumer Lending, E-Commerce, Financial Services, FinTech, Payments, Personal Finance, Retail"
+,"San Francisco, California, United States"
+,Affirm is a financial technology services company that offers installment loans to consumers at the point of sale.
+,2012
+,175
+,Etsy
+,"E-Commerce, Marketplace, Sales"
+,"Brooklyn, New York, United States"
+,Etsy is an e-commerce site and a smartphone application for buying and selling handmade and vintage items.
+,"Jun 18, 2005"
+,176
+,Sisense
+,"Analytics, Big Data, Business Intelligence, Data Visualization, Enterprise Software, Information Technology"
+,"New York, New York, United States"
+,"Sisense simplifies business analytics for complex data by providing a complete solution for preparing, analyzing and visualizing big data."
+,"Sep 22, 2010"
+,177
+,Eventbrite
+,"Association, Event Management, Events, Internet, SaaS, Ticketing"
+,"San Francisco, California, United States"
+,Eventbrite provides online event planning services.
+,2006
+,178
+,Nest Labs
+,"Manufacturing, Sensor, Smart Home"
+,"Palo Alto, California, United States"
+,"Nest Labs is a home automation company manufacturing sensor-driven, Wi-Fi-enabled, self-learning thermostats and smoke detectors."
+,"May 25, 2010"
+,179
+,Via
+,"Mobile Apps, Real Time, Ride Sharing, Transportation, Travel"
+,"New York, New York, United States"
+,Via is on-demand transit on a mass scale.
+,"Jun 26, 2012"
+,180
+,Zillow
+,"Marketplace, Online Portals, Real Estate"
+,"Seattle, Washington, United States"
+,"Zillow is an online real estate marketplace for finding and sharing information about homes, real estate, and mortgages."
+,2005
+,181
+,HubSpot
+,"Analytics, Information Technology, Marketing, SaaS, Social Media"
+,"Cambridge, Massachusetts, United States"
+,"HubSpot develops cloud-based, inbound marketing software that allows businesses to transform the way that they market online."
+,"Jun 9, 2006"
+,182
+,Skupos
+,"Analytics, Big Data, Information Services, Retail Technology"
+,"San Francisco, California, United States"
+,Skupos leverages technology to convert manual processes into data-driven workflows.
+,"Apr 4, 2016"
+,183
+,Charter Communications
+,"Internet, Telecommunications, Video"
+,"Stamford, Connecticut, United States"
+,"Charter Communications is an American company offering cable television, high-speed Internet, and telephone services."
+,1993
+,184
+,MX Technologies
+,"Banking, Finance, Financial Services, FinTech, SaaS"
+,"Lehi, Utah, United States"
+,"MX is a company that enables financial institutions to gather, enrich, present, and act on data."
+,"Mar 1, 2010"
+,185
+,Lyft
+,"Mobile Apps, Peer to Peer, Ride Sharing, Transportation"
+,"San Francisco, California, United States"
+,"Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides."
+,"May 22, 2012"
+,186
+,Automattic
+,"Blogging Platforms, Content, Internet, Web Design, Web Development"
+,"San Francisco, California, United States"
+,"Automattic develops publishing platforms, including the WordPress.com website and the VIP WordPress.com cloud version."
+,"Jul 1, 2005"
+,187
+,ThetaRay
+,"Artificial Intelligence, Big Data, Cyber Security, FinTech, Fraud Detection, Machine Learning, Network Security"
+,"New York, New York, United States"
+,"ThetaRay is a provider of unknown threat detection solutions to critical infrastructure, financial institutions, and other verticals."
+,2013
+,188
+,Spin
+,"Apps, Last Mile Transportation, Mobile Apps, Transportation"
+,"San Francisco, California, United States"
+,Spin is a stationless electric scooter company that provides dockless mobility systems.
+,"Nov 1, 2016"
+,189
+,Bitwise Industries
+,"Coworking, Education, Real Estate, SaaS, Software"
+,"Fresno, California, United States"
+,"Bitwise is a tech ecosystem, activating human potential to elevate underdog cities around the country."
+,"Jul 1, 2013"
+,190
+,Dashlane
+,"Cloud Computing, Identity Management, Payments, Privacy, Security, Software"
+,"New York, New York, United States"
+,"Dashlane is a password manager and digital wallet, designed to make identity and payment simple and secure."
+,"Jul 6, 2009"
+,191
+,eMarketer
+,"Advertising, Business Intelligence, E-Commerce, Market Research, Mobile, Social Media"
+,"New York, New York, United States"
+,"eMarketer enables customers to understand trends, consumer behavior and get needed data and insights to succeed in today’s digital economy."
+,1998
+,192
+,Mighty AI
+,"Artificial Intelligence, Computer Vision, Machine Learning, Mobile"
+,"Seattle, Washington, United States"
+,Mighty AI delivers training data to companies that build computer vision models for autonomous vehicles.
+,"Nov 14, 2014"
+,193
+,Atrium Health
+,"Health Care, Medical, Wellness"
+,"Charlotte, North Carolina, United States"
+,Atrium Health operates as an innovative healthcare organization.
+,1943
+,194
+,Zume Pizza
+,"Consumer, Food and Beverage, Food Delivery"
+,"Mountain View, California, United States"
+,Zume Pizza is a food delivery company that operates an automated pizza delivery platform.
+,"Sep 8, 2015"
+,195
+,Fastly
+,"Cloud Security, Content Delivery Network, Enterprise Software, Internet, Security"
+,"San Francisco, California, United States"
+,Fastly helps digital businesses keep pace with their customer expectations by delivering secure and scalable online experiences.
+,2011
+,196
+,Biz2Credit
+,"Commercial Lending, Financial Services, FinTech, Internet, Lending, Marketplace, Small and Medium Businesses"
+,"New York, New York, United States"
+,"Biz2Credit is a hub connecting small business owners with lenders and service providers, and seek solutions based on their online profiles."
+,2007
+,197
+,Symphony Communication Services
+,"FinTech, Information Services, Information Technology, Messaging, Software"
+,"Palo Alto, California, United States"
+,Leading secure team collaboration platform.
+,"Sep 30, 2014"
+,198
+,Mobiquity
+,"Information Technology, Internet, Mobile, Software, Wireless"
+,"Wellesley, Massachusetts, United States"
+,Mobiquity provides mobile engagement solutions.
+,2011
+,199
+,Consumer Reports
+,"Association, Consumer, Customer Service, Health Care, Non Profit"
+,"Yonkers, New York, United States"
+,"Consumer Reports is a nonprofit organization dedicated to helping consumers make informed choices about products, services, and safety."
+,1936
+,200
+,Acorns
+,"Apps, Finance, Financial Services, FinTech, Mobile, Wealth Management"
+,"Irvine, California, United States"
+,Acorns is a finance company that allows individuals to round up purchases and automatically invest the change.
+,"Feb 29, 2012"
+,201
+,HOVER
+,"3D Technology, Computer Vision, Enterprise Software, Machine Learning, Mobile"
+,"San Francisco, California, United States"
+,"HOVER is a 3D technology company that creates fully measured, customizable 3D models of any home."
+,Mar 2011
+,202
+,Zume Inc.
+,"Consumer, Food and Beverage, Food Delivery"
+,"Mountain View, California, United States"
+,"Zume is a food production company based in Mountain View, California."
+,2018
+,203
+,AT&T
+,"Mobile, Service Industry, Telecommunications, Wireless"
+,"Dallas, Texas, United States"
+,"AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services."
+,"Oct 5, 1983"
+,204
+,Squarespace
+,"Blogging Platforms, Content, Internet, SaaS, Software, Web Design"
+,"New York, New York, United States"
+,"Squarespace is a SaaS-based content management system offering a website builder, blogging platform, and hosting service."
+,Apr 2003
+,205
+,Carbon Health
+,"Health Care, Medical, Personal Health"
+,"San Francisco, California, United States"
+,Carbon Health makes world class healthcare available to everyone. Like a doctor in the family.
+,"Jul 1, 2015"
+,206
+,DoubleDutch
+,"Enterprise Software, Event Management, Events, Marketing Automation, Mobile"
+,"San Francisco, California, United States"
+,DoubleDutch develops event management software for the events industry worldwide.
+,2011
+,207
+,Fanatics
+,"E-Commerce, Retail, Retail Technology, Shopping"
+,"Jacksonville, Florida, United States"
+,Fanatics is an online retailer of officially licensed sports merchandise providing the ultimate shopping experience to sports fans.
+,1995
+,208
+,The Guardian
+,"Finance, Financial Services, Insurance, News, Publishing"
+,"New York, New York, United States"
+,"The Guardian is a British national daily newspaper that covers news, sports, business, opinion, analysis, reviews, and much more."
+,"Jan 1, 1821"
+,209
+,Jet
+,"E-Commerce, Marketing, Retail, Retail Technology, Software"
+,"Hoboken, New Jersey, United States"
+,Jet operates an e-commerce platform that allows its member to shop online from various retailers.
+,Apr 2014
+,210
+,Carbon Black
+,"Cloud Computing, Homeland Security, Physical Security, Security"
+,"Waltham, Massachusetts, United States"
+,Carbon Black (NASDAQ: CBLK) is a leading provider of next-generation endpoint security.
+,2002
+,211
+,Afiniti
+,"Analytics, Artificial Intelligence, Big Data, Customer Service, Enterprise Software"
+,"Washington, District of Columbia, United States"
+,Afiniti provides artificial intelligence (AI) solutions that enable the transformation of enterprise profitability.
+,2006
+,212
+,Yellowbrick Data
+,"Analytics, Database, Information Technology"
+,"Palo Alto, California, United States"
+,Yellowbrick Data empowers companies to make faster decisions with all of their data.
+,2014
+,213
+,Pantheon
+,"Cloud Infrastructure, Content, Enterprise Software, Infrastructure, Internet, SaaS, Web Development"
+,"San Francisco, California, United States"
+,"Pantheon provides a website management platform to build, launch, and manage WordPress and Drupal sites."
+,"Sep 1, 2010"
+,214
+,DraftKings
+,"Fantasy Sports, Gaming, Online Games, Software, Sports"
+,"Boston, Massachusetts, United States"
+,DraftKings provides online daily and weekly fantasy sports contests for cash prizes in major sports.
+,2012
+,215
+,BitPay
+,"Bitcoin, Finance, FinTech, Payments, Peer to Peer"
+,"Atlanta, Georgia, United States"
+,BitPay provides enterprise-grade bitcoin payment solutions for businesses and organizations.
+,"May 1, 2011"
+,216
+,Zumper
+,"B2B, Consumer, Marketplace, Mobile, Real Estate, Rental"
+,"San Francisco, California, United States"
+,Zumper makes renting an apartment as easy as booking a hotel
+,2012
+,217
+,Netskope
+,"Cloud Security, Cyber Security, Enterprise Software, Software"
+,"Santa Clara, California, United States"
+,Netskope is the leading cloud access security broker (CASB).
+,"Oct 8, 2012"
+,218
+,Johns Hopkins University
+,"EdTech, Education, Health Care, Higher Education, Mechanical Engineering, Social Entrepreneurship, Training, Universities"
+,"Baltimore, Maryland, United States"
+,"Johns Hopkins University is a private research university based in Baltimore, Maryland."
+,1876
+,219
+,Bleacher Report
+,"Advertising, Digital Media, Publishing, Sports"
+,"San Francisco, California, United States"
+,"Bleacher Report is a digital media company based in America, delivering digital media content on sports around the world."
+,2007
+,220
+,15Five
+,"Application Performance Management, Enterprise Software, Information Technology, SaaS"
+,"San Francisco, California, United States"
+,15Five develops cloud-based performance management software designed to help employees grow and develop into their best selves.
+,"May 1, 2011"
+,221
+,H.I.G. Capital
+,"Credit, Insurance, Real Estate"
+,"Miami, Florida, United States"
+,H.I.G. Capital is a global private equity and alternative assets investment firm with $31 billion of equity capital under management.
+,1993
+,222
+,Benzinga
+,"Finance, FinTech, News"
+,"Detroit, Michigan, United States"
+,"Benzinga is a financial news and analysis service providing timely, actionable insights for investors."
+,2010
+,223
+,Chainalysis
+,"Bitcoin, Cryptocurrency, Financial Exchanges, FinTech, Software"
+,"New York, New York, United States"
+,Chainalysis designs and develops anti-money laundering software for Bitcoin businesses.
+,"Oct 1, 2014"
+,224
+,Boston Dynamics
+,"Hardware, Industrial Engineering, Robotics, Software"
+,"Waltham, Massachusetts, United States"
+,Boston Dynamics is an engineering company that specializes in building dynamic robots and software for human simulation.
+,1992
+,225
+,Micron Technology
+,"Computer, Hardware, Semiconductor"
+,"Boise, Idaho, United States"
+,"Micron Technology is a semiconductor company that produces DRAM, SDRAM, flash memory, SSD and CMOS image sensing chips."
+,1978
+,226
+,Offerpad
+,"Internet, Real Estate"
+,"Chandler, Arizona, United States"
+,"Offerpad is a leading on-demand, tech-enabled direct home buyer and seller."
+,2015
+,227
+,Noom
+,"Consulting, Health Care, Mobile, Nutrition, Wellness"
+,"New York, New York, United States"
+,"Noomi provides mobile health coaching, focused on combating chronic and pre-chronic conditions such as obesity, diabetes, and hypertension."
+,"Jul 25, 2008"
+,228
+,Adaptive Biotechnologies
+,"Biotechnology, Health Care, Therapeutics"
+,"Seattle, Washington, United States"
+,Adaptive Biotechnologies translates a scale and precision of the adaptive immune system into products to diagnose and treat disease.
+,2009
+,229
+,Matterport
+,"3D Technology, Cloud Computing, Computer Vision, Digital Media, Hardware, Photography, Virtual Reality"
+,"Sunnyvale, California, United States"
+,Matterport develops and operates cloud based platform
+,2011
+,230
+,Morgan Stanley
+,"Asset Management, Financial Services, Lending"
+,"New York, New York, United States"
+,"Morgan Stanley is an American financial services company that offers securities, asset management, and credit services."
+,1935
+,231
+,Anomalie
+,"E-Commerce, Fashion, Wedding"
+,"San Francisco, California, United States"
+,Anomalie designs and sells custom wedding gowns.
+,2016
+,232
+,PagerDuty
+,"Cloud Computing, Information Technology, IT Management, SaaS"
+,"San Francisco, California, United States"
+,PagerDuty is an operations performance platform delivering visibility and actionable intelligence across the entire incident lifecycle.
+,"Feb 1, 2009"
+,233
+,Verizon Communications
+,"Communications Infrastructure, Information Technology, Mobile, Telecommunications"
+,"New York, New York, United States"
+,Verizon Communications is a broadband and telecommunications company that provides information and entertainment services.
+,"Oct 7, 1983"
+,234
+,ChargePoint
+,"Electric Vehicle, Fleet Management, Hardware, Internet of Things, Mobile, Smart Cities, Software"
+,"Campbell, California, United States"
+,ChargePoint is an open electric vehicle charging network.
+,2007
+,235
+,Procore
+,"Construction, Information Technology, Internet, Project Management, SaaS, Software"
+,"Carpinteria, California, United States"
+,Procore provides cloud-based construction management software.
+,"Jan 17, 2002"
+,236
+,Sense Photonics
+,"Electronics, Industrial Automation, Manufacturing"
+,"Durham, North Carolina, United States"
+,"Sense Photonics is an RTP, North Carolina based high technology start-up company."
+,"Dec 1, 2016"
+,237
+,RapidAPI
+,"Apps, Cloud Computing, Developer APIs, Information Technology, Marketplace, Real Time"
+,"San Francisco, California, United States"
+,RapidAPI is an API marketplace that aids developers to connect directly to thousands of public APIs.
+,"Nov 21, 2014"
+,238
+,Mattermost
+,"File Sharing, Information Services, Information Technology, Messaging, Software"
+,"Palo Alto, California, United States"
+,Mattermost provides enterprise-grade messaging solutions.
+,2011
+,239
+,Gusto
+,"Employee Benefits, Enterprise Software, Financial Services, FinTech, Human Resources, Personal Finance, SaaS"
+,"San Francisco, California, United States"
+,"Gusto provides a cloud-based payroll, benefits, and human resource management solution for businesses."
+,Nov 2011
+,240
+,Allscripts
+,"Enterprise Software, Health Care, Information Technology"
+,"Chicago, Illinois, United States"
+,Allscripts provides healthcare information technology solutions.
+,1986
+,241
+,Sunbit
+,"Finance, FinTech, Retail"
+,"Los Angeles, California, United States"
+,"At Sunbit, we believe that people deserve to get the most out of their hard-earned money, every time."
+,2016
+,242
+,Firefly
+,"Advertising Platforms, Information Technology, Smart Cities"
+,"San Francisco, California, United States"
+,Firefly is a mobility based advertising and data platform that allows rideshare drivers to make money through digital advertising.
+,2017
+,243
+,MedMen
+,"Asset Management, Cannabis, Finance, Service Industry"
+,"Culver City, California, United States"
+,"MedMen owns and operates licensed cannabis facilities in cultivation, manufacturing, and retail."
+,2010
+,244
+,Intuit
+,"Accounting, Consumer, Financial Services, PaaS"
+,"Mountain View, California, United States"
+,"Intuit offers business and financial management solutions for SMBs, financial institutions, consumers, and accounting professionals."
+,1983
+,245
+,Shipt
+,"Delivery, E-Commerce, Grocery, Same Day Delivery"
+,"Birmingham, Alabama, United States"
+,Shipt is a grocery delivery service that lets members order groceries and alcohol from their local store for delivery right to their door.
+,2014
+,246
+,Atreca
+,"Biotechnology, Health Care, Therapeutics"
+,"San Carlos, California, United States"
+,"Atreca develops a technology to identify the set of antibodies produced during an immune response, without prior knowledge of an antigen."
+,2010
+,247
+,Trace Genomics
+,"Agriculture, AgTech, Biotechnology, Farming"
+,"Burlingame, California, United States"
+,Trace Genomics makes soil information more easily accessible by doing NPK testing and interpreting information.
+,2015
+,248
+,Kustomer
+,"CRM, Customer Service, Enterprise, SaaS, Small and Medium Businesses"
+,"New York, New York, United States"
+,Kustomer is the omnichannel SaaS platform reimagining enterprise customer service to deliver standout experiences – not resolve tickets.
+,"Sep 1, 2015"
+,249
+,Seamless
+,"Delivery, E-Commerce, Internet, Local, Location Based Services, Mobile, Restaurants"
+,"New York, New York, United States"
+,Seamless North America is an online platform and smartphone app that allows customers to order food from preferred restaurants.
+,Dec 1999
+,250
+,Passport
+,"Enterprise Software, Government, GovTech, Mobile Payments, Public Transportation, SaaS"
+,"Charlotte, North Carolina, United States"
+,Passport transforms the way cities manage their operations by reducing operational complexity and delivering intelligent data.
+,"Apr 1, 2010"
+,251
+,BMC Software
+,"Cloud Computing, Information Services, Information Technology, Software"
+,"Houston, Texas, United States"
+,BMC Software is a business service management platform offering cloud and IT management solutions for businesses.
+,"Sep 19, 1980"
+,252
+,ALICE
+,"Hospitality, Mobile, Service Industry"
+,"New York, New York, United States"
+,ALICE connects every department of your hotel with one platform for all staff communication and guest requests
+,"Jul 1, 2012"
+,253
+,Step
+,"Finance, Financial Services, FinTech"
+,"San Mateo, California, United States"
+,Step is a financial services company that builds mobile-based banking for teenagers.
+,2018
+,254
+,Alteryx
+,"Analytics, Artificial Intelligence, Business Intelligence, Data Integration, Machine Learning, Predictive Analytics"
+,"Irvine, California, United States"
+,Alteryx is a leading provider of an end to end data science & analytics platform for the enterprise
+,Mar 2011
+,255
+,The Honest Company
+,"Consumer Goods, Dietary Supplements, E-Commerce, Lifestyle"
+,"Santa Monica, California, United States"
+,"The Honest Company creates eco-friendly, convenient, and affordable products for babies and homes."
+,2012
+,256
+,Walmart
+,"E-Commerce, Internet, Mobile, Retail, Retail Technology"
+,"Bentonville, Arkansas, United States"
+,Walmart is a multinational retail corporation that operates several chains of discount department and warehouse stores.
+,"Jan 2, 1962"
+,257
+,Segment
+,"Analytics, Big Data, Cloud Computing, Infrastructure"
+,"San Francisco, California, United States"
+,Segment provides the customer data infrastructure that helps businesses put their customers first.
+,Sep 2011
+,258
+,Lending Club
+,"Consumer Lending, Credit, Finance, FinTech, Lending, Peer to Peer, Personal Finance"
+,"San Francisco, California, United States"
+,Lending Club is an online financial community that brings together creditworthy borrowers and savvy investors.
+,2007
+,259
+,Kaiser Permanente
+,"Biotechnology, Health Care, Health Diagnostics, Medical"
+,"Oakland, California, United States"
+,Kaiser Permanente is committed to helping shape the future of health care recognized as one of America's leading health care provider.
+,1945
+,260
+,Okta
+,"CRM, Enterprise, Enterprise Software, Identity Management, Information Technology, Security, Software, Telecommunications"
+,"San Francisco, California, United States"
+,Okta is the leading independent provider of identity for the enterprise.
+,"Jan 1, 2009"
+,261
+,Aptible
+,"Enterprise Software, Health Care, PaaS, Privacy, Security"
+,"San Francisco, California, United States"
+,Meet the security requirements to achieve compliance
+,"Apr 1, 2013"
+,262
+,Zynga
+,"Gaming, Mobile, PC Games"
+,"San Francisco, California, United States"
+,"Zynga develops, markets, and operates social games as live services played on the Internet."
+,"Apr 1, 2007"
+,263
+,Apollo
+,"Developer APIs, Developer Platform, Developer Tools, Enterprise Software, Open Source, Software, Web Apps"
+,"San Francisco, California, United States"
+,"Apollo is the GraphQL company. Its Data Graph Platform helps developers, startups, and enterprises get the most out of GraphQL."
+,2011
+,264
+,Twistlock
+,"Cloud Security, Enterprise Software, Information Technology, Security"
+,"Portland, Oregon, United States"
+,Twistlock is cloud native cybersecurity for the modern enterprise.
+,"Jan 9, 2015"
+,265
+,Aunt Bertha
+,"Charity, Employment, GovTech, Software"
+,"Austin, Texas, United States"
+,Aunt Bertha enables individuals to find and apply for government and charitable social service programs.
+,2010
+,266
+,Imgur
+,"Digital Entertainment, Internet, Social Media"
+,"San Francisco, California, United States"
+,Imgur is a community powered entertainment destination.
+,"Feb 1, 2009"
+,267
+,Lemonade
+,"Artificial Intelligence, Financial Services, Insurance, InsurTech"
+,"New York, New York, United States"
+,"Lemonade is a full stack insurance company powered by AI and behavioral economics, and driven by social good."
+,2015
+,268
+,SmartRecruiters
+,"Enterprise Software, Recruiting, SaaS, Social Recruiting"
+,"San Francisco, California, United States"
+,"SmartRecruiters is an end-to-end recruiting platform to find, engage, and hire great talent."
+,"Sep 1, 2010"
+,269
+,Hilton Worldwide
+,"Hospitality, Leisure, Resorts"
+,"Mclean, Virginia, United States"
+,"Hilton Worldwide is a hospitality company, owns luxury and full-service hotels and resorts, and focused-service hotels."
+,1919
+,270
+,Dstillery
+,"Advertising, Analytics, Data Visualization, Internet, Machine Learning, Market Research, Marketing, Predictive Analytics"
+,"New York, New York, United States"
+,"Dstillery is the leading custom audience solutions company, building your best audiences with Custom AI models."
+,2008
+,271
+,fuboTV
+,"Digital Entertainment, Sports, Subscription Service"
+,"New York, New York, United States"
+,fuboTV is an OTT subscription service that streams premium sports and live channels.
+,"Jun 2, 2014"
+,272
+,Xometry
+,"3D Printing, Industrial Engineering, Manufacturing"
+,"Gaithersburg, Maryland, United States"
+,Changing the Shape of Manufacturing
+,Oct 2013
+,273
+,Booster Fuels
+,"Consumer, Employee Benefits, Fleet Management, Fuel, Internet, Internet of Things, Mobile, Transportation"
+,"Burlingame, California, United States"
+,Booster is on a mission to free the world from the gas station chore. Booster is the world leader in mobile gas delivery.
+,Jan 2015
+,274
+,Quartet
+,"Health Care, Information Technology, Predictive Analytics"
+,"New York, New York, United States"
+,"Quartet is a technology company improving behavioral health delivery for patients, providers, and payers."
+,2014
+,275
+,OneLogin
+,"Cloud Security, Enterprise Software, Identity Management, Information Technology, SaaS"
+,"San Francisco, California, United States"
+,OneLogin is a cloud identity and access management solution that enables enterprises to secure all apps for their users on all devices.
+,2009
+,276
+,Baxter International
+,"Biotechnology, Clinical Trials, Medical"
+,"Deerfield, Illinois, United States"
+,"Baxter International Inc., through its subsidiaries, develops, manufactures and markets products that save and sustain the lives of people."
+,1931
+,277
+,Leap Motion
+,"3D Technology, Augmented Reality, Hardware, Human Computer Interaction, Software, Virtual Reality"
+,"San Francisco, California, United States"
+,Leap Motion is a software and hardware company that develops 3D motion-control technology for virtual reality and additional platforms.
+,"Oct 1, 2010"
+,278
+,Canary
+,"Crowdfunding, Hardware, Security, Smart Home"
+,"New York, New York, United States"
+,"Canary is an NYC-based company building consumer products that sense, organize, and curate meaningful information from the world."
+,2012
+,279
+,Agari
+,"Cyber Security, Fraud Detection, Network Security, SaaS, Security"
+,"Foster City, California, United States"
+,Agari provides email threat prevention and protection service leverages AI cybersecurity to protect organization.
+,2009
+,280
+,BlackThorn Therapeutics
+,"Biopharma, Biotechnology, Health Care, Therapeutics"
+,"South San Francisco, California, United States"
+,BlackThorn Therapeutics is a clinical-stage biopharmaceutical company
+,2013
+,281
+,Valtix
+,Security
+,"Santa Clara, California, United States"
+,"A venture-backed, stealth startup redefining network security in the enterprise cloud."
+,Mar 2018
+,282
+,Aerohive Networks
+,"Cloud Infrastructure, Mobile, Wireless"
+,"Sunnyvale, California, United States"
+,Aerohive Networks develops cooperative control architecture that improves the efficiency of enterprise Wi-Fi systems.
+,2006
+,283
+,Health Catalyst
+,"Analytics, Computer, Enterprise Software, Health Care, Information Technology, Software"
+,"Salt Lake City, Utah, United States"
+,Health Catalyst is a tech platform that organizes and links health-related data from different systems and makes it available for all users.
+,2008
+,284
+,ClassPass
+,"Consumer Applications, Fitness, Health Care, Subscription Service"
+,"New York, New York, United States"
+,ClassPass is a subscription marketplace that lets users find and book fitness classes.
+,2013
+,285
+,InVisionApp
+,"Apps, Collaboration, Internet, Mobile, Product Design, SaaS, UX Design"
+,"New York, New York, United States"
+,InVisionApp is the digital product design platform used to make the world’s best customer experiences.
+,2011
+,286
+,Climb Credit
+,"Credit, Education, FinTech, Higher Education, Lending"
+,"New York, New York, United States"
+,Climb is a lending company that strives to only work with schools that consistently improve the lives of their students.
+,"Jul 11, 2014"
+,287
+,OfferUp
+,"Apps, Classifieds, E-Commerce, Mobile, Mobile Payments"
+,"Bellevue, Washington, United States"
+,OfferUp allows individuals to sell items easily using the OfferUp platform.
+,2011
+,288
+,Get Spiffy
+,"Consumer, Internet, Mobile Apps"
+,"Morrisville, North Carolina, United States"
+,On-demand car wash and detailing service.
+,2014
+,289
+,Starry
+,"Hardware, Internet, Network Hardware, Wireless"
+,"Boston, Massachusetts, United States"
+,Starry is an internet company that creates easy-to-use Wi-Fi products and radical ways to get Internet service.
+,2014
+,290
+,Genesys
+,"Business Intelligence, Cloud Infrastructure, Contact Management, CRM, Customer Service, Software, Text Analytics"
+,"Daly City, California, United States"
+,Genesys is an omnichannel customer experience (CX) and contact center solutions in the cloud and on-premises.
+,1990
+,291
+,Modern Health
+,"Employee Benefits, Fitness, Health Care, Human Resources, Wellness"
+,"San Francisco, California, United States"
+,Modern Health is an mental well-being platform for innovative companies that want to reduce burnout and prevent turnover.
+,2017
+,292
+,Exabeam
+,"Analytics, Big Data, Cyber Security, Enterprise Software, Information Technology, Real Time, Security"
+,"San Mateo, California, United States"
+,Exabeam is a big data security analytics company that simplifies security operations and changes the way cyberattacks are detected.
+,2013
+,293
+,VidMob
+,"Advertising Platforms, Analytics, Cloud Data Services, Marketplace, Social Media Advertising, Video"
+,"New York, New York, United States"
+,VidMob is a video content creation network and platform where brands can create digital video ads with expert teams.
+,2014
+,294
+,AnyRoad
+,"Big Data, Enterprise Software, Information Technology, Internet, Marketing, SaaS, Software"
+,"San Francisco, California, United States"
+,"AnyRoad is an ERM platform that helps companies create brand loyalty, change consumer behavior, and understand their brand associations."
+,2014
+,295
+,Pryon
+,"Artificial Intelligence, Machine Learning, Natural Language Processing, Security"
+,"Raleigh, North Carolina, United States"
+,Pryon is an AI company focused on Augmented Intelligence for the enterprise.
+,Aug 2017
+,296
+,Wish
+,"Computer, Content Discovery, E-Commerce, Machine Learning, Mobile, Software"
+,"San Francisco, California, United States"
+,"Wish is shopping app, putting a digital shopping mall of affordable goods directly in the pockets of consumers worldwide."
+,2010
+,297
+,Patreon
+,"Music, Podcast, Sponsorship, Video"
+,"San Francisco, California, United States"
+,Patreon enables fans and sponsors to give ongoing support to artists and creators.
+,"May 7, 2013"
+,298
+,Dynamic Yield
+,"A/B Testing, Artificial Intelligence, E-Commerce, Email Marketing, Enterprise Software, Machine Learning, Messaging, Predictive Analytics, Publishing"
+,"New York, New York, United States"
+,Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint.
+,2011
+,299
+,DataStax
+,"Big Data, Database, Enterprise, Enterprise Software, Software"
+,"Santa Clara, California, United States"
+,DataStax is the leader in data management for cloud applications.
+,"Mar 31, 2010"
+,300
+,Outschool
+,"Children, Education, Information Technology"
+,"San Francisco, California, United States"
+,"Outschool is a marketplace of live online classes for kids. Our mission is to build the biggest, best global school"
+,2015
+,301
+,Orderful
+,"Cloud Data Services, Computer, Information Technology, Software"
+,"San Francisco, California, United States"
+,API Powering the Supply Chain
+,2016
+,302
+,Rocket Lab
+,"Aerospace, Electronics, Industrial Manufacturing"
+,"Huntington Beach, California, United States"
+,Rocket Lab delivers a range of complete rocket systems and technologies for fast and low-cost payload deployment.
+,2006
+,303
+,Confluent
+,"Big Data, Enterprise Software, Open Source, Software"
+,"Palo Alto, California, United States"
+,Confluent offers a streaming platform based on Apache Kafka that enables companies to easily access data as real-time streams.
+,"Sep 23, 2014"
+,304
+,Dave Inc.
+,"Artificial Intelligence, FinTech, Internet"
+,"Los Angeles, California, United States"
+,Building Products Banks Won't
+,"Oct 28, 2016"
+,305
+,JumpCloud
+,"Computer, Enterprise Software, Information Technology, Security"
+,"Boulder, Colorado, United States"
+,"JumpCloud enables IT to securely manage user identities & connect them to resources regardless of provider, protocol, vendor, or location."
+,2012
+,306
+,Poshmark
+,"E-Commerce, Fashion, Marketplace, Peer to Peer"
+,"Redwood City, California, United States"
+,"Poshmark is the largest social marketplace for fashion where anyone can buy, sell and share their style with others."
+,"Feb 1, 2011"
+,307
+,PayJoy
+,"Credit, Emerging Markets, Financial Services, FinTech, Mobile, SaaS, Software"
+,"San Francisco, California, United States"
+,PayJoy provides smartphone-enabled consumer financing solutions.
+,2015
+,308
+,Upwork
+,"Freelance, Marketplace, Peer to Peer"
+,"Mountain View, California, United States"
+,"Upwork is a freelancing website, where businesses connect with talented freelancers."
+,1999
+,309
+,Grindr
+,"Apps, iOS, LGBT, Location Based Services, Social Media, Social Network"
+,"West Hollywood, California, United States"
+,"Grindr is a location-based social application for gay, bi, trans, queer people and other members of the LGBT community."
+,"Feb 3, 2008"
+,310
+,ZappRx
+,"Health Care, Information Technology, mHealth"
+,"Boston, Massachusetts, United States"
+,ZappRx is a digital health company that is modernizing and simplifying the way specialty drugs are ordered
+,2012
+,311
+,Carbon Lighthouse
+,"Commercial Real Estate, Energy, Energy Efficiency, Hospitality, Solar"
+,"San Francisco, California, United States"
+,On a mission to stop climate change by making it easy and profitable for building owners to cut carbon emissions caused by wasted energy.
+,2010
+,312
+,G2 Crowd
+,"B2B, Business Intelligence, CRM, Enterprise Software, Internet, Marketing Automation, SaaS, Software"
+,"Chicago, Illinois, United States"
+,G2 Crowd is a platform for users to share business software reviews in real-time.
+,"May 1, 2012"
+,313
+,Smartsheet
+,"Enterprise, SaaS, Software"
+,"Bellevue, Washington, United States"
+,"Smartsheet is a cloud-based work management platform that empowers collaboration, drives better decision making, and accelerates innovation."
+,Jun 2005
+,314
+,Stack Overflow
+,"Media and Entertainment, Q&A, Recruiting"
+,"New York, New York, United States"
+,Stack Overflow is a question and answer website for professional and enthusiast programmers.
+,"Jul 1, 2008"
+,315
+,SmartAsset
+,"Analytics, Finance, FinTech, Personal Finance"
+,"New York, New York, United States"
+,SmartAsset is a financial technology company that empowers people with automated personalized financial advice.
+,2012
+,316
+,The RealReal
+,"E-Commerce, Fashion, Lifestyle"
+,"San Francisco, California, United States"
+,The RealReal is the leader in authenticated luxury consignment.
+,"Mar 1, 2011"
+,317
+,Brandless
+,"Commercial, Consumer Goods, E-Commerce, Retail"
+,"San Francisco, California, United States"
+,Brandless is a direct-to-consumer company providing household items.
+,2016
+,318
+,Vertex Pharmaceuticals
+,"Biotechnology, Medical, Pharmaceutical"
+,"Boston, Massachusetts, United States"
+,Vertex Pharmaceuticals is focused on the discovery and development of small molecule drugs for the treatment of serious diseases.
+,1989
+,319
+,Clutch
+,"Analytics, Coupons, E-Commerce, Gift Card, Loyalty Programs, Mobile, Mobile Payments, Retail Technology"
+,"Ambler, Pennsylvania, United States"
+,"Clutch provides traditional marketing CRM, loyalty, gift card, mobile, email, and direct mail solutions."
+,"Jul 1, 2012"
+,320
+,Robin
+,"Business Intelligence, Commercial Real Estate, Meeting Software, SaaS"
+,"Boston, Massachusetts, United States"
+,Robin modernizes the open office.
+,"Mar 1, 2014"
+,321
+,Expel
+,"Cloud Security, Cyber Security, Network Security"
+,"Herndon, Virginia, United States"
+,Expel provides transparent managed security.
+,"May 5, 2016"
+,322
+,Tealium
+,"Analytics, Enterprise Software, Internet, Marketing"
+,"San Diego, California, United States"
+,Tealium is the trusted leader in real-time customer data orchestration.
+,"Mar 1, 2008"
+,323
+,Wealthfront
+,"Finance, Financial Services, FinTech, Personal Finance, Stock Exchanges, Wealth Management"
+,"Redwood City, California, United States"
+,"The only automated financial advisor offering financial planning, investment management and banking-related services all on a mobile app."
+,2011
+,324
+,JP Morgan Chase
+,Financial Services
+,"New York, New York, United States"
+,"JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury and other services."
+,1823
+,325
+,Vectra AI
+,"Artificial Intelligence, Cyber Security, Network Security, Security"
+,"San Jose, California, United States"
+,Vectra is a cybersecurity platform that uses AI to detect attackers in real time and perform conclusive incident investigations.
+,2010
+,326
+,Rubrik
+,"Cloud Computing, Cloud Data Services, Cloud Management, Data Center Automation, Information Technology, Security, Software"
+,"Palo Alto, California, United States"
+,Rubrik offers live data access for recovery and application development by fusing enterprise data management with web-scale IT.
+,Jan 2014
+,327
+,Kabbage
+,"Credit, Finance, Financial Services, FinTech, Internet, iOS, Lending"
+,"Atlanta, Georgia, United States"
+,"Kabbage offers fast, easy loans for small businesses."
+,"Feb 12, 2009"
+,328
+,Alkami Technology
+,"Banking, Credit, Financial Services, FinTech, Software"
+,"Plano, Texas, United States"
+,Alkami Technology develops and delivers digital banking solutions for credit unions and banks.
+,"Aug 21, 2009"
+,329
+,Siri
+,"Consumer Electronics, iOS, Software, Virtualization"
+,"San Jose, California, United States"
+,"Siri is the developer of Siri, a virtual personal assistant incorporated as a feature of Apple iPhones beginning with the 4S generation."
+,"Dec 1, 2007"
+,330
+,Anaplan
+,"Enterprise Software, Information Technology, Sales"
+,"San Francisco, California, United States"
+,Anaplan provides a connected planning platform that helps businesses make better-informed plans and decisions faster.
+,2006
+,331
+,LinkedIn
+,"Professional Networking, Professional Services, Recruiting, Social Media, Social Recruiting"
+,"Sunnyvale, California, United States"
+,"LinkedIn, a professional networking site, allows its members to create business connections, search for jobs, and find potential clients."
+,"May 5, 2003"
+,332
+,App Annie
+,"Analytics, Big Data, Mobile, SaaS"
+,"San Francisco, California, United States"
+,App Annie delivers data and insights to succeed in the app economy.
+,Mar 2010
+,333
+,SugarCRM
+,"Cloud Computing, CRM, Enterprise Software, Lead Management, Software"
+,"Cupertino, California, United States"
+,SugarCRM enables businesses to create extraordinary customer relationships with the most innovative CRM solution in the market.
+,"Apr 1, 2004"
+,334
+,TransUnion
+,"Credit Bureau, Information Technology, Legal"
+,"Chicago, Illinois, United States"
+,"TransUnion provides total credit protection all in one place from credit alerts, credit reports and credit scores."
+,1968
+,335
+,AXIOS Media
+,"Content Delivery Network, Media and Entertainment, News"
+,"Arlington, Virginia, United States"
+,"Axios is a media company that delivers vital, trustworthy news and analysis."
+,2016
+,336
+,DigitalOcean
+,"Cloud Computing, Virtualization, Web Hosting"
+,"New York, New York, United States"
+,DigitalOcean is an IaaS company that delivers a seamless way for developers and businesses to deploy and scale any application in the cloud.
+,"Jun 24, 2011"
+,337
+,TuSimple
+,"Artificial Intelligence, Autonomous Vehicles, Software, Transportation"
+,"San Diego, California, United States"
+,"TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona."
+,Sep 2015
+,338
+,American Well
+,"Biotechnology, Health Care, Information Technology, SaaS"
+,"Boston, Massachusetts, United States"
+,American Well is an IT company that connects users instantly with doctors over video feed.
+,2006
+,339
+,Genome Medical
+,"Genetics, Health Care, Life Science"
+,"Monterey, California, United States"
+,Genome Medical is an early-stage company using telemedicine to integrate genomic medicine into everyday health care.
+,2016
+,340
+,MediaMath
+,"Advertising, Digital Media, Internet, Marketing, Software"
+,"New York, New York, United States"
+,MediaMath develops and delivers digital advertising media and data management technology solutions to advertisers worldwide.
+,Aug 2007
+,341
+,Periscope Data
+,"Analytics, B2B, Big Data, Business Intelligence, Cloud Data Services, Data Integration, Data Storage, Data Visualization, SaaS"
+,"San Francisco, California, United States"
+,"Periscope Data is the most powerful, flexible analytics platform for data professionals and business users."
+,2012
+,342
+,Simulmedia
+,"Ad Targeting, Advertising, Impact Investing, Marketing"
+,"New York, New York, United States"
+,"Simulmedia, a targeted television advertising company, provides fully scaled digital ad targeting platform for linear televisions."
+,2009
+,343
+,Dun & Bradstreet
+,"B2B, Enterprise Software, Supply Chain Management"
+,"Short Hills, New Jersey, United States"
+,Dun & Bradstreet grows the most valuable relationships in business by uncovering truth and meaning from data.
+,1841
+,344
+,Tempo Automation
+,"Aerospace, Automotive, Electronic Design Automation (EDA), Electronics, Hardware, Internet of Things, Manufacturing, Medical Device, Robotics"
+,"San Francisco, California, United States"
+,Tempo is the world’s fastest electronics manufacturer for prototyping and low-volume production of PCBA.
+,Jul 2013
+,345
+,Sitetracker
+,"Asset Management, Enterprise Software, Project Management, SaaS"
+,"Palo Alto, California, United States"
+,Enterprise Project & Asset Management Software
+,"Aug 1, 2014"
+,346
+,Thrive Market
+,"Beauty, E-Commerce, Health Care, Retail, Shopping"
+,"Los Angeles, California, United States"
+,"Thrive Market is an online retailer with over 2,500 high-quality healthy foods, vitamins, home goods, and beauty supplies."
+,2013
+,347
+,Tamara Mellon
+,"E-Commerce, Fashion, Lifestyle, Retail, Shoes, Wearables"
+,"New York, New York, United States"
+,Tamara Mellon offers apparel and accessories for women.
+,2010
+,348
+,Engage3
+,"Analytics, Big Data, E-Commerce, Internet of Things, Retail"
+,"Davis, California, United States"
+,Engage3 helps retailers and brands enhance their pricing performance through data science and analytics.
+,2008
+,349
+,SmartRent
+,"Information Technology, Internet of Things, Mobile Devices, Property Management, Real Estate, Rental Property, Smart Home"
+,"Scottsdale, Arizona, United States"
+,SmartRent is an enterprise home automation and internet of things platform for the multifamily industry.
+,Jan 2017
+,350
+,Logi Analytics
+,"Analytics, Software, Web Development"
+,"Mclean, Virginia, United States"
+,Logi Analytics offers a web-based reporting and data visualization platform that provides business intelligence solutions.
+,2000
+,351
+,ZipRecruiter
+,"E-Commerce, Employment, Human Resources, Internet, Mobile Apps, Recruiting, SaaS, Software"
+,"Santa Monica, California, United States"
+,"ZipRecruiter is an online employment marketplace, connecting millions of employers and job seekers through mobile and email services."
+,"Mar 1, 2010"
+,352
+,Foursquare
+,"Advertising Platforms, Apps, Big Data, Developer APIs, Developer Tools, Guides, Location Based Services, Mobile, Mobile Advertising, Private Social Networking"
+,"New York, New York, United States"
+,"Foursquare is a location technology platform, powering business solutions and consumer products through a deep understanding of location."
+,"Mar 1, 2009"
+,353
+,Apptio
+,"Enterprise Software, Information Technology, SaaS"
+,"Bellevue, Washington, United States"
+,Apptio is a provider of SaaS-based Technology Business Management (TBM) solutions for managing businesses in the IT field.
+,"Nov 1, 2007"
+,354
+,Flipboard
+,"Apps, iOS, Media and Entertainment, Mobile, News, Social"
+,"Palo Alto, California, United States"
+,"Flipboard is a social magazine that is available for the Web, iOS, Android, Windows 10, and Windows Phone."
+,2010
+,355
+,HackerOne
+,"Computer, Internet, Network Security"
+,"San Francisco, California, United States"
+,"HackerOne is the # 1 hacker-powered, application security platform."
+,2012
+,356
+,Druva
+,"Cloud Data Services, Compliance, Data Storage, Enterprise Software"
+,"Sunnyvale, California, United States"
+,"Druva delivers a SaaS-based platform to protect and manage enterprise data across endpoint, data center and cloud workloads."
+,"Aug 2, 2008"
+,357
+,Locana
+,—
+,"San Diego, California, United States"
+,Locana is a RNA-targeting gene therapy company
+,2016
+,358
+,Cruise
+,"Automotive, Autonomous Vehicles, Robotics, Software, Transportation"
+,"San Francisco, California, United States"
+,"Building the world’s most advanced self-driving vehicles to safely connect people to the places, things, and experiences they care about."
+,2013
+,359
+,Superhuman
+,"Email, Product Design, Productivity Tools, SaaS, Software"
+,"San Francisco, California, United States"
+,The fastest email experience ever made. Sign up now for VIP access at https://superhuman.com.
+,2015
+,360
+,Grand Rounds
+,"Employee Benefits, Enterprise Software, Health Care, Medical"
+,"San Francisco, California, United States"
+,Grand Rounds helps employers reduce the waste out of their healthcare spend by giving employees access to top quality physicians.
+,2011
+,361
+,Siemplify
+,"Analytics, Cyber Security, Network Security, Security"
+,"New York, New York, United States"
+,Siemplify is a SOAR provider that is redefining security operations for enterprises and MSSPs worldwide.
+,2015
+,362
+,BlueVoyant
+,"Computer, Cyber Security, Security"
+,"New York, New York, United States"
+,A cybersecurity services firm. Uncommon intelligence. Exceptional security.
+,Jul 2017
+,363
+,Distil Networks
+,"Content, Information Technology, Security, Web Hosting"
+,"Arlington, Virginia, United States"
+,Distil Networks is the global leader in Bot detection and mitigation focused on stopping automated attacks to make the web more secure.
+,"Apr 1, 2011"
+,364
+,Cockroach Labs
+,"Database, Enterprise Software, Open Source"
+,"New York, New York, United States"
+,"Cockroach Labs is the company behind CockroachDB, an open source, distributed SQL database."
+,Feb 2015
+,365
+,Houghton Mifflin Harcourt
+,"Content, E-Learning, EBooks, Education"
+,"Boston, Massachusetts, United States"
+,"Houghton Mifflin Harcourt is a global learning company specialized in pre-K–12 education content, services, and technology solutions."
+,1832
+,366
+,MoneyGram International
+,"Financial Exchanges, Financial Services, Payments"
+,"Dallas, Texas, United States"
+,MoneyGram International is a money transfer company to securely and quickly send or receive money.
+,"Jan 1, 1940"
+,367
+,Modal
+,"Automotive, E-Commerce, FinTech, Mobile, SaaS"
+,"San Francisco, California, United States"
+,Modal builds the future of auto sales for the world’s largest retailers.
+,2015
+,368
+,Yext
+,"Advertising, Software"
+,"New York, New York, United States"
+,Perfect Answers Everywhere.
+,"Sep 16, 2006"
+,369
+,Neurotrack
+,"Biotechnology, Health Care, Health Diagnostics, Information Technology"
+,"Redwood City, California, United States"
+,Transforming the diagnosis and prevention of memory loss.
+,2012
+,370
+,Bungie
+,"Digital Media, Media and Entertainment, Video Games"
+,"Bellevue, Washington, United States"
+,"From a creepy one bedroom apartment housing two dudes, to a fully-loaded game studio stuffed full of free snacks."
+,1991
+,371
+,"Toys ""R"" Us"
+,"Consumer Goods, E-Commerce, Retail, Toys"
+,"Wayne, New Jersey, United States"
+,"Toys “R” Us is a toy and baby products retailer, offering a wide range of products globally."
+,1984
+,372
+,James
+,"Artificial Intelligence, Machine Learning, Software"
+,"New York, New York, United States"
+,The AI for Credit Risk
+,2013
+,373
+,OutSystems
+,"Developer Tools, Enterprise Software, Mobile, Mobile Apps, PaaS, Web Development"
+,"Atlanta, Georgia, United States"
+,OutSystems is a low-code platform where users can build enterprise apps and apps development quick and fast.
+,"Mar 1, 2001"
+,374
+,Expa
+,"Finance, Internet, Mobile"
+,"San Francisco, California, United States"
+,Expa is a startup studio designed for entrepreneurs to create and launch new companies.
+,"May 2, 2013"
+,375
+,Headspace
+,"Health Care, Mobile Apps, Wellness"
+,"Santa Monica, California, United States"
+,"Headspace is a digital health platform, providing guided meditation sessions and mindfulness training."
+,2010
+,376
+,Harness
+,"Developer Tools, SaaS, Software"
+,"San Francisco, California, United States"
+,Harness is a Continuous Delivery as-a-Service platform for engineering and DevOps teams to release applications into production.
+,2016
+,377
+,SynapseFI
+,"Banking, Finance, Financial Services, FinTech, Payments, Security"
+,"San Francisco, California, United States"
+,SynapseFI is a banking platform that enables companies to provide finance products to their customers.
+,"Apr 14, 2014"
+,378
+,TenantCloud
+,"Accounting, Building Maintenance, Financial Services, Lending, Mobile, Mobile Payments, Property Management, Real Estate, Real Estate Investment, Task Management"
+,"Austin, Texas, United States"
+,Rental Accounting and Management Made Easy
+,"Nov 1, 2014"
+,379
+,MakerSights
+,"Machine Learning, Predictive Analytics, Retail Technology"
+,"San Francisco, California, United States"
+,Actionable product intelligence. Make more confident decisions about your products and future concepts.
+,2015
+,380
+,Propy
+,"Apps, Blockchain, Real Estate, Real Estate Investment, Software"
+,"Palo Alto, California, United States"
+,"End-to-end real estate transaction management platform that facilitates safe, fast & simple real estate transactions entirely online."
+,"Jan 7, 2016"
+,381
+,Clinc
+,"Artificial Intelligence, Financial Services, Software"
+,"Ann Arbor, Michigan, United States"
+,"Clinc is a conversational AI platform that enables enterprises to build ""human-in-the-room"" level, next-gen, virtual assistants."
+,"Jul 13, 2015"
+,382
+,Innovaccer Inc.
+,"Analytics, Big Data, Health Care, Machine Learning"
+,"San Francisco, California, United States"
+,Innovaccer is a leading healthcare data activation company committed to making powerful & enduring difference in the way care is delivered.
+,"Aug 1, 2014"
+,383
+,ServiceTitan
+,"Home Services, SaaS, Software"
+,"Glendale, California, United States"
+,ServiceTitan is the service management software that helps leading home services businesses generate more leads and close more sales.
+,2013
+,384
+,Phlur
+,"E-Commerce, Internet"
+,"Austin, Texas, United States"
+,PHLUR is a fragrance-developing company introducing novel sampling processes to its customers.
+,2015
+,385
+,Cornerstone OnDemand
+,"E-Learning, Enterprise Software, SaaS, Social Network"
+,"Santa Monica, California, United States"
+,Cornerstone OnDemand provides cloud-based talent management software solutions.
+,"Nov 1, 1999"
+,386
+,Sensor Tower
+,"Analytics, Android, Big Data, iOS, Market Research, Mobile, Mobile Apps"
+,"San Francisco, California, United States"
+,Sensor Tower equips publishers and marketers with the data and insights needed to master the mobile app ecosystem.
+,2013
+,387
+,Amazon Pay
+,"E-Commerce, Internet, Mobile Payments, Online Portals, Payments"
+,"Seattle, Washington, United States"
+,Amazon Pay makes it easy for millions of Amazon customers to pay using the information already stored in their Amazon account.
+,2005
+,388
+,Equinix
+,"Cloud Data Services, Data Center, Information Technology, Infrastructure, Internet"
+,"Redwood City, California, United States"
+,Equinix provides a carrier-neutral interconnection data center and global colocation services.
+,1998
+,389
+,Getaway
+,"Hospitality, Rental, Rental Property, Travel"
+,"Brooklyn, New York, United States"
+,Getaway is a wellness hospitality company that offers cabin rentals in natural landscapes.
+,2015
+,390
+,Oncologie
+,"Biopharma, Medical Device, Pharmaceutical"
+,"Waltham, Massachusetts, United States"
+,Oncologie is developing next-generation biologics and small molecules.
+,—
+,391
+,Aura
+,"Banking, Consumer, Consumer Lending, Finance, Financial Services, FinTech, Lending, Software, Venture Capital"
+,"San Francisco, California, United States"
+,"Aura provides affordable, credit-building loans to America’s working families."
+,"Nov 1, 2012"
+,392
+,Motorola Solutions
+,"Communications Infrastructure, Cyber Security, Electronics, Information Technology, Mobile, Public Safety, Telecommunications, Wireless"
+,"Schaumburg, Illinois, United States"
+,Motorola Solutions creates mission-critical communication solutions and services for public safety and commercial customers.
+,"Sep 25, 1928"
+,393
+,CleverTap
+,"Analytics, Marketing Automation, Mobile, SaaS"
+,"Sunnyvale, California, United States"
+,CleverTap is a customer lifecycle management and engagement platform to drive long-term retention and growth.
+,"May 24, 2013"
+,394
+,Ping Identity
+,"FinTech, Government, Identity Management, Security"
+,"Denver, Colorado, United States"
+,Ping Identity provides cloud-based identity management software for companies and government organizations.
+,2002
+,395
+,AppNexus
+,"Ad Network, Advertising, Internet, Service Industry, Software"
+,"New York, New York, United States"
+,AppNexus provides cloud-based advertising products and services.
+,Sep 2007
+,396
+,Beam Dental
+,"Dental, Insurance, Internet of Things"
+,"Columbus, Ohio, United States"
+,A smarter dental benefits company that offers employers a proprietary underwriting method informed by oral hygiene routines.
+,2012
+,397
+,PayPal
+,"E-Commerce, E-Commerce Platforms, Finance, FinTech, Mobile Payments, Payments, Transaction Processing"
+,"San Jose, California, United States"
+,PayPal provides online payment solutions to its users worldwide.
+,"Dec 1, 1998"
+,398
+,Outdoor Voices
+,"E-Commerce, Fitness, Retail"
+,"Austin, Texas, United States"
+,Outdoor Voices is an active lifestyle brand that makes technical apparel for recreation.
+,"Jan 1, 2014"
+,399
+,HqO
+,"Apps, Commercial Real Estate, Internet, Real Estate"
+,"Boston, Massachusetts, United States"
+,HqO is a tenant experience (TeX) company.
+,2018
+,400
+,Dishcraft Robotics
+,"Manufacturing, Robotics"
+,"San Carlos, California, United States"
+,Dishcraft Robotics develops and manufactures robots for commercial kitchens.
+,2015
+,401
+,Karat
+,"Enterprise Software, Recruiting, Software Engineering"
+,"Seattle, Washington, United States"
+,Karat conducts highly predictive technical interviews that power world-class hiring processes for leading organizations.
+,"Mar 25, 2014"
+,402
+,Honeywell International
+,"Aerospace, Electronics, Information Technology, Innovation Management, Manufacturing, Market Research, Service Industry, Software"
+,"Morristown, New Jersey, United States"
+,"Honeywell International is a technology and manufacturing company that offers energy, safety, and security solutions and technologies."
+,1906
+,403
+,Yesware
+,"CRM, Email, Enterprise Software, Internet"
+,"Boston, Massachusetts, United States"
+,"Yesware is an all-in-one sales acceleration platform that helps salespeople connect with prospects, track engagement, and close more deals."
+,"Jul 1, 2010"
+,404
+,Domio
+,"Big Data, Hospitality, Hotel, Internet, Marketplace, Property Management, Real Estate, SaaS, Sharing Economy, Travel"
+,"New York, New York, United States"
+,Domio is revolutionizing group travel with branded Domio apartment-hotels.
+,"Aug 1, 2016"
+,405
+,Synlogic
+,"Biotechnology, Health Care, Therapeutics"
+,"Cambridge, Massachusetts, United States"
+,Synlogic is a biotechnology company
+,2014
+,406
+,Relativity Space
+,"3D Technology, Aerospace, Manufacturing, Space Travel"
+,"Los Angeles, California, United States"
+,Relativity is building the future of humanity in space and disrupting 60 years of aerospace manufacturing.
+,2016
+,407
+,Verishop
+,"E-Commerce, Internet"
+,"Santa Monica, California, United States"
+,Verishop is a stealth company launching an online commerce platform targeting millennials
+,2018
+,408
+,Ivalua
+,"Financial Services, Procurement, Software"
+,"Redwood City, California, United States"
+,Ivalua provides web-based spend management solutions that offers a modular suite covering the Spend Management spectrum.
+,2000
+,409
+,Misfits Market
+,"Grocery, Marketplace"
+,"Philadelphia, Pennsylvania, United States"
+,Misfits Market produce delivered directly to you for up to 50% less than grocery store prices.
+,2018
+,410
+,Parametric Technology (PTC)
+,"3D Technology, CAD, Enterprise Software, Health Care, Information Services, Information Technology, Manufacturing, Product Design, SaaS, Software"
+,"Needham, Massachusetts, United States"
+,"Parametric Technology Corporation develops, markets and supports product lifecycle management software solutions and associated services."
+,1985
+,411
+,FanDuel
+,"Fantasy Sports, Gaming, Sports"
+,"New York, New York, United States"
+,FanDuel offers fantasy sports with daily games for real money.
+,2009
+,412
+,Spark Therapeutics
+,"Biotechnology, Genetics, Medical, Therapeutics"
+,"Philadelphia, Pennsylvania, United States"
+,Spark Therapeutics is focused on the development of gene therapy.
+,2013
+,413
+,Flywheel Sports
+,"Cycling, Fitness, Sports, Wellness"
+,"New York, New York, United States"
+,Flywheel Sports focuses on indoor cycling and an immersive experience for riders who want something more.
+,2010
+,414
+,Digital Trends
+,"Consumer Electronics, Media and Entertainment, News"
+,"Portland, Oregon, United States"
+,Digital Trends is an online publisher focused on the lifestyle aspect of consumer electronics and autos.
+,"Jun 1, 2006"
+,415
+,Coursera
+,"EdTech, Education, Enterprise, Internet"
+,"Mountain View, California, United States"
+,Coursera is an online education company that serves over 20 million learners from around the world.
+,2012
+,416
+,Platzi
+,"Education, Edutainment, Recruiting, Training"
+,"Mountain View, California, United States"
+,"Platzi is an effective online education platform that offers classes on marketing, learn coding, business, and design."
+,Jul 2012
+,417
+,Divvy
+,"Apps, Financial Services, Payments, Software"
+,"Lehi, Utah, United States"
+,"Divvy helps businesses manage payments and subscriptions, build strategic budgets, and eliminate expense reports."
+,2016
+,418
+,Yale University
+,"Association, Biotechnology, Business Development, Education, Health Care, Medical, Social Entrepreneurship"
+,"New Haven, Connecticut, United States"
+,Yale University is an American private Ivy League research university in New Haven in Connecticut.
+,"Oct 9, 1701"
+,419
+,Drawbridge
+,"Analytics, Artificial Intelligence, Big Data, Digital Marketing, Identity Management, Machine Learning, Mobile, Personalization, SaaS"
+,"San Mateo, California, United States"
+,"Drawbridge uses large-scale AI and machine learning technology to build Identity solutions that connect, unify, & enhance customer data."
+,2011
+,420
+,Coinbase
+,"Bitcoin, Blockchain, Cryptocurrency, E-Commerce, Ethereum, FinTech, Personal Finance, Virtual Currency"
+,"San Francisco, California, United States"
+,Coinbase is a digital currency wallet service that allows traders to buy and sell bitcoin.
+,"Jun 1, 2012"
+,421
+,venn
+,"Information Technology, Internet, Software"
+,"Brooklyn, New York, United States"
+,Venn offers a platform that encourages urbanites to become active creators and participants in the development of their community.
+,2016
+,422
+,Bright Machines
+,"Computer, Machine Learning, Manufacturing, Robotics, Software"
+,"San Francisco, California, United States"
+,"Bright Machines brings together flexible factory robots with intelligent software, production data and machine learning."
+,2018
+,423
+,CredSimple
+,"Health Care, Information Technology, Medical, SaaS"
+,"New York, New York, United States"
+,CredSimple is an NCQA certified credentialing and provider data management solution.
+,2013
+,424
+,Octane Lending
+,"Enterprise Software, Financial Services, FinTech, Insurance, Lending, Point of Sale, Software"
+,"New York, New York, United States"
+,Octane Lending offers a point of sales financing and insurance platform for niche consumer markets.
+,"Jan 1, 2014"
+,425
+,Flip
+,"Leasing, Mobile, Peer to Peer, Real Estate"
+,"New York, New York, United States"
+,Marketplace for long term sublets
+,2016
+,426
+,CybeReady
+,Cyber Security
+,"Los Gatos, California, United States"
+,"The leader in Autonomous Cyber Security Awareness. We leverage AI & Adaptive learning. We guarantee cyber risk reduction at ""zero effort""."
+,"Sep 1, 2015"
+,427
+,Harry's
+,"E-Commerce, Fashion, Lifestyle, Price Comparison"
+,"New York, New York, United States"
+,"Harry's allows users to buy razors, German engineered blades and shaving creams."
+,"Oct 1, 2013"
+,428
+,Dropbox
+,"Collaboration, Enterprise Software, File Sharing, Private Cloud, Web Hosting"
+,"San Francisco, California, United States"
+,"Dropbox provides secure file sharing, collaboration, and storage solutions."
+,"Jun 1, 2007"
+,429
+,Udacity
+,"E-Learning, EdTech, Education, Internet, Training"
+,"Mountain View, California, United States"
+,Udacity provides and promotes digital education services.
+,2011
+,430
+,Swimlane
+,"Computer, Network Security, Security"
+,"Louisville, Colorado, United States"
+,"Swimlane security operations management software delivers purpose-built workflow tools, including automated incident response."
+,2014
+,431
+,Sears
+,"Coupons, E-Commerce, Internet, Shopping"
+,"Chicago, Illinois, United States"
+,"Sears is a multinational department store that focuses on outdoor living needs, home appliances, clothes, and furniture."
+,1893
+,432
+,Evernote
+,"Information Services, Information Technology, iOS, Mobile, SaaS"
+,"Redwood City, California, United States"
+,"Evernote is a suite of software and services that allow users to capture, organize, and find information across multiple platforms."
+,"Feb 29, 2000"
+,433
+,Checkr
+,"Artificial Intelligence, Developer APIs, Enterprise Software, Information Services, Internet, Legal, Legal Tech, Software"
+,"San Francisco, California, United States"
+,Checkr seeks to automate the process of professional background checks.
+,2014
+,434
+,eSUB Construction Software
+,"Construction, Project Management, SaaS, Software"
+,"San Diego, California, United States"
+,eSUB Construction Software offers the construction industry with a cloud-based project management software solution.
+,2008
+,435
+,Pendo
+,"Analytics, Apps, Enterprise Software, Guides, Mobile, Product Design, Product Management, SaaS, UX Design"
+,"Raleigh, North Carolina, United States"
+,Pendo is a product cloud creator for digital products and data-driven product teams.
+,Oct 2013
+,436
+,Modsy
+,"3D Technology, Home Decor, Home Renovation, Personalization"
+,"San Francisco, California, United States"
+,"Modsy combines advanced 3D graphics, computer vision, and creative curation to provide its customers with home design guidance and plans."
+,2015
+,437
+,Vida Health
+,"Health Care, Information Technology, Marketplace"
+,"San Francisco, California, United States"
+,"Vida provides personalized, on-demand health coaching and programs from experienced health care providers and medical institutions."
+,2014
+,438
+,Riot Games
+,"Computer, Developer Platform, PC Games, Video Games"
+,"Los Angeles, California, United States"
+,Riot Games is a global company that develops online games.
+,2006
+,439
+,Circle
+,"Banking, Blockchain, Cryptocurrency, Finance, Financial Services, FinTech, Payments, Personal Finance"
+,"Boston, Massachusetts, United States"
+,"Circle is a global internet finance company, built on blockchain technology and powered by crypto assets."
+,2013
+,440
+,Centene
+,"Enterprise, Health Care, Hospital"
+,"St Louis, Missouri, United States"
+,Centene is a multi-line health care enterprise offering Medicaid managed care and specialty services.
+,1984
+,441
+,AttackIQ
+,"Computer, Internet, Network Security"
+,"San Diego, California, United States"
+,AttackIQ is an automated validation platform to end the guessing game & challenge your security controls.
+,2013
+,442
+,TradingView
+,"Android, Cloud Computing, Education, Finance, Internet, iOS, Social Media, Stock Exchanges"
+,"Chicago, Illinois, United States"
+,TradingView operates as a developer of social networking and data analysis tools intended for financial markets.
+,"Sep 1, 2011"
+,443
+,University of Pennsylvania
+,"Association, Education"
+,"Philadelphia, Pennsylvania, United States"
+,"The University of Pennsylvania is an American private Ivy League research university located in Philadelphia, Pennsylvania."
+,"Nov 14, 1740"
+,444
+,Android
+,"Linux, Mobile, Search Engine"
+,"Palo Alto, California, United States"
+,Android provides an open-source mobile software platform that allows developers to create applications for mobile devices.
+,"Oct 1, 2003"
+,445
+,DoorDash
+,"Delivery, Food Delivery, Local, Logistics, Mobile, Small and Medium Businesses"
+,"San Francisco, California, United States"
+,DoorDash enables small businesses to provide its customers with local delivery services.
+,2013
+,446
+,University of Texas at Austin
+,"Association, Career Planning, Education, Energy, Universities"
+,"Austin, Texas, United States"
+,"University of Texas is an educational institution that provides undergraduate, graduate, and research programs."
+,"Mar 30, 1881"
+,447
+,Scout
+,"Consumer Electronics, Hardware, Internet of Things, Security, Software"
+,"Chicago, Illinois, United States"
+,Scout is a home security system that combines hardware designs and easy-to-use controls.
+,2012
+,448
+,Clover Health
+,"Health Care, Health Insurance, Hospital"
+,"San Francisco, California, United States"
+,Clover Health is a new health insurance company.
+,2013
+,449
+,Waze
+,"Mobile Apps, Navigation, Transportation"
+,"Palo Alto, California, United States"
+,"Waze is a mobile navigation app that enables drivers to use live maps, and get real-time traffic updates and other road data."
+,2007
+,450
+,CenturyLink
+,"Analytics, Big Data, Telecommunications, VoIP"
+,"Monroe, Louisiana, United States"
+,"CenturyLink is a telecommunications company providing broadband, voice and wireless services to consumers and businesses."
+,"Jan 1, 1930"
+,451
+,Outreach
+,"CRM, Enterprise, Enterprise Software, Recruiting, SaaS, Sales"
+,"Seattle, Washington, United States"
+,Outreach is a sales engagement platform that accelerates revenue growth by optimizing interactions throughout the customer lifecycle.
+,2013
+,452
+,Instawork
+,"Hospitality, Internet, Marketplace, Mobile Apps, Recruiting"
+,"San Francisco, California, United States"
+,Instawork is the on-demand staffing app for gig workers and hospitality businesses.
+,2015
+,453
+,MediaJel
+,"Advertising, Digital Marketing, Retail"
+,"Walnut Creek, California, United States"
+,"MediaJel is a data-driven digital advertising company that helps brands and retailers build powerful, distinct relationships with customers."
+,2018
+,454
+,Samsara
+,"Electronics, Sensor, Software"
+,"San Francisco, California, United States"
+,Samsara builds sensor systems that combine wireless sensors with remote networking and cloud-based analytics.
+,2015
+,455
+,Scopely
+,"Casual Games, Developer Platform, Machine Learning, Mobile, Publishing"
+,"Culver City, California, United States"
+,Scopely is a global interactive entertainment company and leading publisher of free-to-play mobile games.
+,2011
+,456
+,Cushman & Wakefield
+,"Commercial Real Estate, Consulting, Industrial, Legal, Real Estate"
+,"New York, New York, United States"
+,"Cushman & Wakefield is a real estate services firm that offers agency leasing, tenant representation, and investment management services."
+,"Oct 13, 1917"
+,457
+,Rothy's
+,"E-Commerce, Fashion, Shoes"
+,"San Francisco, California, United States"
+,"Rothy’s is a global women’s lifestyle brand that transforms recycled plastic water bottles into beautiful, comfortable shoes."
+,2015
+,458
+,Splitit
+,"Credit, E-Commerce, Finance, Financial Services, Retail Technology"
+,"New City, New York, United States"
+,Global payment solution enabling customers to pay for purchases by splitting the cost into interest-free monthly payments.
+,2012
+,459
+,Snowflake
+,"Analytics, Cloud Data Services, Enterprise Software, SaaS, Software"
+,"San Mateo, California, United States"
+,Snowflake provides a data warehouse as a service designed for the cloud.
+,2012
+,460
+,Tenable Network Security
+,"Compliance, Network Security, Risk Management, Security"
+,"Columbia, Maryland, United States"
+,Tenable empowers all organizations to understand and reduce their cybersecurity risk across the full range of modern computing assets
+,Sep 2002
+,461
+,Axon
+,"Electronics, GovTech, Hardware, Software"
+,"Scottsdale, Arizona, United States"
+,Axon is a conducted electrical weapons development and innovative secured digital evidence management solutions company.
+,1993
+,462
+,Green Bits
+,"Cannabis, Point of Sale, Retail Technology, SaaS, Small and Medium Businesses, Software"
+,"San Jose, California, United States"
+,Green Bits is a retail management and point-of-sale platform that helps legal cannabis retailers grow their businesses.
+,"Mar 25, 2014"
+,463
+,Peek
+,"Internet, Marketplace, Mobile, SaaS, Tourism, Travel"
+,"San Francisco, California, United States"
+,"Peek is a travel activities marketplace based in San Francisco, California."
+,2012
+,464
+,Verodin
+,"Cloud Security, Compliance, Cyber Security, Intrusion Detection, Network Security, Penetration Testing, Security, Software"
+,"Mclean, Virginia, United States"
+,"Verodin is a business platform that enables organizations to measure, manage, and improve their cybersecurity effectiveness."
+,2014
+,465
+,Cleo
+,"Apps, Family, Health Care, Parenting, Wellness, Women's"
+,"San Francisco, California, United States"
+,Cleo is a family support system that employers offer to working parents
+,2016
+,466
+,Eaze
+,"Cannabis, E-Commerce, Health Care, Marketplace, Mobile"
+,"San Francisco, California, United States"
+,Eaze is an online marketplace and technology platform that helps provide legal access to cannabis through safe and convenient delivery.
+,"Jul 29, 2014"
+,467
+,NewtonX
+,"Health Care, Information Services, Information Technology, Management Consulting"
+,"New York, New York, United States"
+,NewtonX is an expert knowledge marketplace
+,2016
+,468
+,New Relic
+,"Analytics, Application Performance Management, Cloud Computing, IT Infrastructure, Mobile, SaaS, Software"
+,"San Francisco, California, United States"
+,"New Relic is a digital intelligence company, delivering full-stack visibility and analytics to enterprises around the world."
+,"Feb 1, 2008"
+,469
+,NewStore
+,"E-Commerce, Mobile, Retail, Retail Technology, Shopping"
+,"Boston, Massachusetts, United States"
+,NewStore operates a platform for retailers to run their stores on iPhone.
+,2015
+,470
+,Insurity
+,"Analytics, Finance, Insurance"
+,"Hartford, Connecticut, United States"
+,"Insurity provides insurance companies with policy administration, claims, billing, and analytics software."
+,1985
+,471
+,Acquia
+,"Computer, Content, Enterprise Software, Open Source"
+,"Boston, Massachusetts, United States"
+,"Global organizations turn to Acquia to provide technical expertise and strategic insight to build, deliver, and optimize the Drupal WCMS"
+,"May 1, 2007"
+,472
+,Shift
+,"Automotive, Internet, Marketplace"
+,"San Francisco, California, United States"
+,Shift is an online marketplace for buying and selling used cars.
+,2013
+,473
+,Away
+,"Consumer, Consumer Goods, E-Commerce, Lifestyle, Travel"
+,"New York, New York, United States"
+,Away is a modern travel and lifestyle brand designed with thoughtful features that solve real travel problems
+,Feb 2015
+,474
+,Edgewise Networks
+,Network Security
+,"Burlington, Massachusetts, United States"
+,Edgewise Networks is revolutionizing network security by proactively preventing application compromise and attack progression.
+,2016
+,475
+,Agara Labs
+,"Artificial Intelligence, Customer Service, Enterprise Software, Machine Learning"
+,"Austin, Texas, United States"
+,Deep learning powered predictive customer support solution
+,"Apr 18, 2017"
+,476
+,UserZoom
+,"Market Research, SaaS, Test and Measurement, Usability Testing, UX Design"
+,"San Jose, California, United States"
+,UserZoom delivers actionable UX insights to design better digital experiences.
+,"Aug 1, 2007"
+,477
+,Actifio
+,"Enterprise Software, Information Services, Information Technology, Virtualization"
+,"Waltham, Massachusetts, United States"
+,Actifio delivers Enterprise Data-as-a-Service to hundreds of global enterprise customers and service provider partners.
+,"Jul 1, 2009"
+,478
+,Zoomdata
+,"Analytics, Big Data, Collaboration, Data Visualization, Enterprise Software"
+,"Reston, Virginia, United States"
+,"Zoomdata is Reinventing BI from the ground up for a bigger, faster, more diverse world"
+,"Sep 1, 2012"
+,479
+,Leanplum
+,"A/B Testing, Analytics, App Marketing, Apps, Artificial Intelligence, CRM, Digital Marketing, E-Commerce, E-Commerce Platforms, Email, Email Marketing, Enterprise Software, Intelligent Systems, Machine Learning, Marketing, Marketing Automation, Messaging, Mobile, Mobile Apps, Personalization, Predictive Analytics, SMS"
+,"San Francisco, California, United States"
+,Leanplum is a mobile marketing platform that delivers meaningful engagement across messaging and the in-app experience.
+,2012
+,480
+,Shopkick
+,"Advertising, Apps, Brand Marketing, E-Commerce, Mobile, Retail, Social Media"
+,"Redwood City, California, United States"
+,Shopkick provides shopping app for smartphones at physical stores and rewards users just for walking in.
+,"Jul 1, 2009"
+,481
+,Pure Storage
+,"Cloud Computing, Data Storage, Enterprise Software"
+,"Mountain View, California, United States"
+,Pure Storage is an all-flash enterprise storage company that enables broad deployment of flash in data centers.
+,"Sep 1, 2009"
+,482
+,Giphy
+,"Communities, E-Commerce, Internet, Photo Sharing, Publishing, Search Engine, Social Media"
+,"New York, New York, United States"
+,"Giphy allows users to search, share, and discover best GIFs."
+,"Feb 1, 2013"
+,483
+,Threat Stack
+,"Cloud Security, SaaS, Security"
+,"Boston, Massachusetts, United States"
+,Threat Stack is a cloud infrastructure security company
+,"Nov 1, 2012"
+,484
+,Twitch
+,"Social Media, Video, Video Games, Video Streaming"
+,"San Francisco, California, United States"
+,"Twitch is social video platform for gamers where more than 100 million gather every month to broadcast, watch and talk about video games."
+,2007
+,485
+,Brex
+,"Credit Cards, Finance, Financial Exchanges, Financial Services, FinTech"
+,"San Francisco, California, United States"
+,"Brex is the first corporate card for startups, tech, and online brands."
+,Mar 2017
+,486
+,Clever Real Estate
+,"Commercial Real Estate, Real Estate, Real Estate Investment"
+,"St Louis, Missouri, United States"
+,"A platform that connects homeowners with top real estate agents in their area, who can help them sell for as little as $3,000 in commission."
+,"Jul 10, 2017"
+,487
+,Reddit
+,"Content, News, Social Bookmarking, Social Media, Social Network"
+,"San Francisco, California, United States"
+,"Reddit is an online platform, enabling its users to submit links, create content, and have discussions about the topics of their interest."
+,2005
+,488
+,GOAT Group
+,"E-Commerce, Fashion, Marketplace, Mobile, Shoes"
+,"Culver City, California, United States"
+,GOAT Group is the world's largest marketplace for authentic sneakers operating GOAT and Flight Club brands.
+,Jun 2015
+,489
+,Coalition
+,"Financial Services, FinTech, Information Technology, Insurance, Risk Management"
+,"San Francisco, California, United States"
+,"Coalition protects the value of a business with Coalition's intelligence, risk management, and insurance offerings."
+,2017
+,490
+,SoFi
+,"Finance, Financial Services, FinTech, Life Insurance, Personal Finance, Wealth Management"
+,"San Francisco, California, United States"
+,SoFi is a modern finance company taking an unprecedented approach to lending and wealth management.
+,"Aug 1, 2011"
+,491
+,Rhumbix
+,"Analytics, Construction, Enterprise Software, Mobile"
+,"San Francisco, California, United States"
+,Rhumbix develops a mobile platform designed for the construction craft workforce.
+,2014
+,492
+,Cylance
+,"Artificial Intelligence, Consulting, Cyber Security, Enterprise Software, Machine Learning, Network Security, Penetration Testing"
+,"Irvine, California, United States"
+,Cylance is a global provider of cybersecurity products and services using A.I. and machine learning to solve security problems.
+,"Jul 4, 2012"
+,493
+,Edge Case Research
+,"Artificial Intelligence, Autonomous Vehicles, Computer, Embedded Software, Machine Learning, Robotics, Software"
+,"Pittsburgh, Pennsylvania, United States"
+,ECR works with autonomous vehicle and robotic system and component developers to make their systems and software safer and more reliable.
+,2013
+,494
+,Zebra Technologies
+,"Computer, Enterprise Software, Hardware, Information Technology, News, Social News"
+,"Lincolnshire, Illinois, United States"
+,"Zebra Technologies is a global leader in barcode printing and RTLS technology including printers, RFID, software and supplies."
+,1991
+,495
+,Addepar
+,"Finance, Financial Services, FinTech, SaaS"
+,"Mountain View, California, United States"
+,Addepar is an investment management platform for investors and advisors.
+,2009
+,496
+,Toast
+,"Analytics, Mobile, Point of Sale, Restaurants, SaaS, Software"
+,"Boston, Massachusetts, United States"
+,Toast is an all-in-one point-of-sale and restaurant management platform for businesses in the food service and hospitality space.
+,"Dec 22, 2011"
+,497
+,Upland Software
+,"Cloud Data Services, Enterprise Software, Information Technology"
+,"Austin, Texas, United States"
+,"Upland Software delivers cloud-based project, portfolio and work management software applications for enterprises."
+,2010
+,498
+,Johnson & Johnson
+,"Health Care, Health Diagnostics, Information Technology"
+,"New Brunswick, New Jersey, United States"
+,"Johnson & Johnson engages in the research and development, manufacture and sale of a range of products in the healthcare field."
+,1886
+,499
+,Classy
+,"CRM, Crowdfunding, Events, FinTech, Non Profit"
+,"San Diego, California, United States"
+,Classy is a fundraising platform for social good organizations.
+,"May 15, 2006"
+,500
+,OneWeb
+,"Aerospace, Database, Internet, Satellite Communication, Telecommunications"
+,"Arlington, Virginia, United States"
+,OneWeb deploys a micro-satellite constellation to provide global high-speed and low latency broadband access.
+,2012
+,501
+,Algolia
+,"Big Data, Cloud Computing, Enterprise Software, SaaS, Search Engine, Software"
+,"San Francisco, California, United States"
+,"Algolia's hosted search API helps product builders create lightning-fast, highly relevant search to connect their users with what matters."
+,"Oct 10, 2012"
+,502
+,Clutter
+,"Consumer, Self-Storage, Service Industry"
+,"Culver City, California, United States"
+,Clutter is a tech-enabled storage company that lets clients store extra stuff without actually leaving their house.
+,2013
+,503
+,BigCommerce
+,"Business Development, E-Commerce, Enterprise Software, Retail, SaaS, Software"
+,"Austin, Texas, United States"
+,BigCommerce is a SaaS provider for merchants running online businesses.
+,2009
+,504
+,TuneIn
+,"Internet Radio, Mobile, Music, News"
+,"San Francisco, California, United States"
+,"TuneIn allows users to stream and listen to online radio, talkshows, and news on demand."
+,2002
+,505
+,AirHelp
+,"Air Transportation, Document Management, Internet, Legal, Professional Services"
+,"New York, New York, United States"
+,"AirHelp helps air passengers get compensation from airlines when their flight gets canceled, delayed, or overbooked."
+,"Jan 25, 2013"
+,506
+,Brain Corp
+,"Artificial Intelligence, Autonomous Vehicles, Robotics, Software"
+,"San Diego, California, United States"
+,Powering autonomous robots. Empowering their builders.
+,Mar 2009
+,507
+,Tatcha
+,"Beauty, E-Commerce, Retail"
+,"San Francisco, California, United States"
+,Classic Japanese beauty rituals: Beloved by geisha. Proven by science. Remastered for you.
+,2009
+,508
+,WorkRamp
+,"Human Resources, Internet, Knowledge Management, Sales, Sales Automation, Software, Training"
+,"San Francisco, California, United States"
+,WorkRamp is a platform for training the next generation of our workforce.
+,2015
+,509
+,Duolingo
+,"E-Learning, Education, Internet, Language Learning"
+,"Pittsburgh, Pennsylvania, United States"
+,Duolingo is the world's largest language learning platform with over 300 million users.
+,2011
+,510
+,Strava
+,"Fitness, Hardware, Internet, Mobile, Social, Sports"
+,"San Francisco, California, United States"
+,Strava is an online network that connects the global community of athletes.
+,2009
+,511
+,Blink Health
+,"Health Care, Medical, Medical Device"
+,"New York, New York, United States"
+,Blink Health is a web-based application that enables users to search for medical prescriptions online and pick them up from any pharmacy.
+,2014
+,512
+,Behalf
+,"B2B, Finance, FinTech, Internet of Things, Payments"
+,"New York, New York, United States"
+,"Behalf's mission is to empower commerce for businesses large and small with well-priced, on demand payment tools."
+,2011
+,513
+,Sonatype
+,"Enterprise Software, Open Source, Security, Software"
+,"Fulton, Maryland, United States"
+,"Sonatype helps enterprises get precise intelligence about open source components and accelerate software innovation, quality, and security."
+,2008
+,514
+,The Walt Disney Company
+,Animation
+,"Lake Buena Vista, Florida, United States"
+,The mission of The Walt Disney Company is to be one of the world’s leading producers and providers of entertainment and information.
+,"Oct 16, 1923"
+,515
+,Liongard
+,"Asset Management, Cloud Management, Cloud Security, Cyber Security, IT Infrastructure, IT Management, Network Security"
+,"Houston, Texas, United States"
+,Liongard unifies and automates the management and protection of modern IT environments at scale for MSPs and Enterprise IT Operations.
+,Aug 2015
+,516
+,Jumio
+,"Identity Management, Mobile Apps, Payments, SaaS, Software"
+,"Palo Alto, California, United States"
+,"Jumio's Netverify® Trusted Identity as a Service provides ID, Identity, and Document Verification"
+,"Jan 5, 2010"
+,517
+,Dollar Tree
+,"Family, Retail, Service Industry"
+,"Chesapeake, Virginia, United States"
+,Dollar Tree is a national company with thousands of stores.
+,1986
+,518
+,Chief
+,"Communities, Social Network, Women's"
+,"New York, New York, United States"
+,The most powerful network of leading women
+,2018
+,519
+,Sift
+,"Big Data, E-Commerce, FinTech, Fraud Detection, Machine Learning, Security"
+,"San Francisco, California, United States"
+,Sift Science applies insights from a global network of data to detect fraud and increase positive user experience.
+,"Jun 1, 2011"
+,520
+,AppHarvest
+,"Agriculture, Farming"
+,"Morehead, Kentucky, United States"
+,AppHarvest is building some of America's largest controlled-environment agriculture facilities in Appalachia.
+,Jan 2017
+,521
+,IRL - Social Calendar
+,"Apps, Mobile Apps, Social, Social Media, Social Network"
+,"San Francisco, California, United States"
+,IRL App is a social planning application that keeps users connected with each other.
+,2017
+,522
+,PlanGrid
+,"Android, Building Maintenance, Collaboration, Construction, Green Building, iOS, Mobile"
+,"San Francisco, California, United States"
+,"Simple, powerful construction software that GCs, subs, and owners love to use."
+,Nov 2011
+,523
+,Sezzle
+,"Computer, E-Commerce, Information Technology, Mobile Payments, Payments, Software"
+,"Minneapolis, Minnesota, United States"
+,"The highest consumer rated buy now, pay later solution on the market. 0% interest. No fees if paid on time. 4 payments over 6 weeks."
+,"Jan 4, 2016"
+,524
+,Lumi
+,"E-Commerce, Fashion, Graphic Design, Manufacturing, Packaging Services, Printing, Supply Chain Management"
+,"Los Angeles, California, United States"
+,Packaging for online brands
+,2009
+,525
+,OwnBackup
+,"Cloud Computing, Enterprise Software, SaaS"
+,"Fort Lee, New Jersey, United States"
+,OwnBackup is a leading cloud-to-cloud backup and restore vendor.
+,"Mar 11, 2012"
+,526
+,Serverless
+,"Computer, Consumer Applications, Online Portals, Open Source, Software"
+,"San Francisco, California, United States"
+,Serverless provides development framework for building serverless architectures.
+,2015
+,527
+,Clockwise
+,"Enterprise Software, Information Technology, Internet, Productivity Tools, Software"
+,"San Francisco, California, United States"
+,Clockwise is an intelligent calendar system that frees up time so that users can work on what matters.
+,2016
+,528
+,Ocrolus
+,"Finance, Financial Services, FinTech"
+,"New York, New York, United States"
+,"Ocrolus analyzes financial documents, regardless of format and quality, with over 99% accuracy."
+,2014
+,529
+,Clever
+,"Big Data, Data Integration, EdTech, Education"
+,"San Francisco, California, United States"
+,Clever builds the platform for modern learning software after extracting student data from school legacy data systems.
+,2012
+,530
+,Juniper Networks
+,"Communication Hardware, Infrastructure, Security"
+,"Sunnyvale, California, United States"
+,"Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure."
+,"Feb 6, 1996"
+,531
+,Namely
+,"Enterprise Software, Human Resources, Management Information Systems, Software"
+,"New York, New York, United States"
+,"Namely is an all-in-one platform that manages all HR data in one place, with personalized service to help companies get better and faster."
+,"Jan 17, 2012"
+,532
+,Teladoc
+,"Health Care, Hospital, Information Technology, mHealth"
+,"Purchase, New York, United States"
+,"Teladoc is the the global leader in virtual care, transforming the access, cost and quality dynamics of health care delivery."
+,2002
+,533
+,Invesco
+,"Finance, Financial Services, Venture Capital"
+,"Atlanta, Georgia, United States"
+,Invesco is an independent investment management firm.
+,1935
+,534
+,News Corp.
+,"Education, Information Services, Internet, News, Publishing"
+,"New York, New York, United States"
+,"News Corp. is a network of leading companies in the worlds of diversified media, news, education and information services."
+,1979
+,535
+,Alma Health
+,"Fitness, Health Care, Therapeutics"
+,"New York, New York, United States"
+,Alma Health offers a new practice model for therapists designed to elevate the therapy experience.
+,2018
+,536
+,Galvanize
+,"Communities, Coworking, Education, Venture Capital"
+,"Denver, Colorado, United States"
+,"Galvanize is a school for entrepreneurs, engineers, and data scientists."
+,2012
+,537
+,Cypress.io
+,"Developer Tools, Software"
+,"Atlanta, Georgia, United States"
+,"Front-end testing for anything that runs in a browser. Set up, write, and run tests with error messages to make debugging easy."
+,2014
+,538
+,Zipline
+,"Drones, Logistics, Robotics"
+,"Half Moon Bay, California, United States"
+,"Zipline designs, manufactures, and operates drones to deliver vital medical products to everyone, no matter where they live."
+,2014
+,539
+,Personalis
+,"Biotechnology, Genetics, Health Care, Health Diagnostics"
+,"Menlo Park, California, United States"
+,Personalis is a contract research organization and genome-scale diagnostics services company specializing in genome guided medicine.
+,"Aug 1, 2011"
+,540
+,Handy
+,"Apps, Home Renovation, Software"
+,"Manhattan, New York, United States"
+,"Handy, formerly Handybook, is an app through which users can book cleaners, plumbers, handymen, and other household service providers."
+,2012
+,541
+,Influential
+,"Advertising, Artificial Intelligence, Content, Information Technology, Marketing"
+,"Las Vegas, Nevada, United States"
+,Influential is an A.I. influencer technology and the only developer partner of IBM Watson for influencer marketing and technology.
+,2013
+,542
+,Teads
+,"Advertising, Internet, Mobile, Video"
+,"New York, New York, United States"
+,Teads invented outstream video advertising and is the no.1 video advertising marketplace in the world.
+,2005
+,543
+,BAE Systems
+,"Aerospace, Manufacturing, National Security, Navigation"
+,"Rockville, Maryland, United States"
+,"BAE Systems designs, develops, and supports defense and aerospace systems used in the air, on land, at sea, and in space."
+,1997
+,544
+,Integral Ad Science
+,"Advertising, Analytics, Big Data, Digital Media, Internet"
+,"New York, New York, United States"
+,IAS is a global technology and data company that empowers the advertising industry to effectively influence consumers everywhere.
+,2009
+,545
+,Simpo
+,"Analytics, Internet, SaaS"
+,"Palo Alto, California, United States"
+,The SaaS Product Engagement Platform
+,—
+,546
+,JumpStart
+,"Children, Education, Family, Gaming, Mobile, Software"
+,"Torrance, California, United States"
+,JumpStart creates a virtual environment that fosters education for children and families.
+,Mar 2009
+,547
+,ThreatConnect
+,"Analytics, Information Technology, Network Security, Security, Software"
+,"Arlington, Virginia, United States"
+,"ThreatConnect fuses intelligence, automation, orchestration, and response to enable organizations to be more proactive, and efficient."
+,2011
+,548
+,Ajax Health
+,"Clinical Trials, Health Care, Medical Device"
+,"Menlo Park, California, United States"
+,Ajax Health is a clinical-stage Company.
+,2017
+,549
+,Union Kitchen
+,"Finance, Financial Services, Food and Beverage"
+,"Washington, District of Columbia, United States"
+,Food Accelerator
+,"Dec 1, 2012"
+,550
+,Workato
+,"Apps, Cloud Computing, Data Integration, Marketing Automation, Sales Automation, Software"
+,"Cupertino, California, United States"
+,Workato is an integration platform designed to automate businesses.
+,2013
+,551
+,SEMrush
+,"Analytics, Content Marketing, Digital Marketing, Market Research, SaaS, Search Engine, Semantic Search, SEO, Social Media Marketing, Software"
+,"Boston, Massachusetts, United States"
+,SEMrush is a an online visibility management and content marketing SaaS platform
+,"Aug 3, 2008"
+,552
+,VentureBeat
+,"Internet, Mobile, News, Social Media"
+,"San Francisco, California, United States"
+,VentureBeat is an online technology news platform that is engaged in technology publication and events business.
+,"Sep 1, 2006"
+,553
+,Charlotte's Web
+,"Fitness, Health Care, Manufacturing, Wellness"
+,"Denver, Colorado, United States"
+,Charlotte's Web products are made from our world-renowned hemp genetics grown 100% in Colorado.
+,2014
+,554
+,Software Motor Company
+,"Automotive, Industrial Automation, Internet of Things, SaaS, Software"
+,"Sunnyvale, California, United States"
+,SMC combines modern computing and software control with the proven reliability of switched reluctance motor technology.
+,2013
+,555
+,Dialpad
+,"Call Center, Meeting Software, Mobile, Mobile Apps, SaaS, Software, Telecommunications, Unified Communications, Web Development"
+,"San Francisco, California, United States"
+,Dialpad offers a cloud-based business phone solution simplified for every business.
+,Apr 2011
+,556
+,GOQii
+,"Consumer Electronics, Fitness, Lifestyle"
+,"Menlo Park, California, United States"
+,GOQii’s goal is to enable people across the world to “be the force” to unleash their untapped potential.
+,2014
+,557
+,Birchbox
+,"Beauty, E-Commerce, E-Commerce Platforms, Internet"
+,"New York, New York, United States"
+,"Birchbox is a discovery commerce platform offering a personalized method for discovering, learning, and shopping for products in the market."
+,2010
+,558
+,LevelTen Energy
+,"Energy, Environmental Engineering, Financial Services, Renewable Energy"
+,"Seattle, Washington, United States"
+,"LevelTen is the safest, most cost-effective way for C&I customers to purchase renewable energy."
+,"Jan 1, 2016"
+,559
+,Tendril
+,"Energy, Energy Management, Software"
+,"Boulder, Colorado, United States"
+,Tendril Networks provides a cloud platform to energy service providers for their energy management applications.
+,2004
+,560
+,Dataiku
+,"Analytics, Artificial Intelligence, Big Data, Data Integration, Enterprise Software, Machine Learning"
+,"New York, New York, United States"
+,"Dataiku develops Data Science Studio, the tool that lets data scientists and analysts do machine learning on any (dirty) data."
+,"Feb 26, 2013"
+,561
+,Nurx
+,"Health Care, Medical, Personal Health"
+,"San Francisco, California, United States"
+,Nurx is an on-demand birth control delivery company that prescribes contraceptives through its app.
+,"Sep 1, 2014"
+,562
+,Streem
+,"3D Technology, Augmented Reality, Computer Vision, Machine Learning"
+,"Portland, Oregon, United States"
+,Making the worlds expertise more accessible.
+,Apr 2017
+,563
+,Booker
+,"Association, E-Commerce, Enterprise Software, Mobile, SaaS, Web Development"
+,"New York, New York, United States"
+,"Booker is a web-based platform enabling businesses to sell their services online, through their website, network of partner sites and apps."
+,"Jan 1, 2007"
+,564
+,Flipagram
+,"Internet, Music, Photography, Video"
+,"Los Angeles, California, United States"
+,"Flipagram allows users to create and share compelling, visual stories with the music they love."
+,"Oct 16, 2008"
+,565
+,Akero Therapeutics
+,"Biotechnology, Life Science"
+,"Cambridge, Massachusetts, United States"
+,Akero Therapeutics is a biotechnology company.
+,2017
+,566
+,FabFitFun
+,"E-Commerce, Fashion, Subscription Service, Wellness"
+,"Los Angeles, California, United States"
+,FabFitFun offers subscription services that allow its members to discover brands and products.
+,2010
+,567
+,Grammarly
+,"Apps, Artificial Intelligence, Blogging Platforms, Machine Learning, Mobile Apps, Productivity Tools, Software"
+,"San Francisco, California, United States"
+,"Grammarly is a digital writing assistant that makes your communication clear and effective, wherever you type."
+,"Apr 1, 2009"
+,568
+,WorkFusion
+,"Artificial Intelligence, Enterprise Software, Machine Learning, Robotics"
+,"New York, New York, United States"
+,"WorkFusion automates enterprise business processes by combining robotics, AI-powered cognitive automation, and workforce orchestration."
+,"Jun 1, 2010"
+,569
+,GreatHorn
+,"Cyber Security, Email, Hardware, Internet, Machine Learning, Security"
+,"Waltham, Massachusetts, United States"
+,"GreatHorn provides protection for cloud email systems, via advanced threat detection, automated defense, and integrated incident response."
+,"Apr 1, 2015"
+,570
+,Mapbox
+,"Business Intelligence, Cloud Computing, Data Visualization, Enterprise Software, Location Based Services, Mapping Services, Open Source"
+,"Washington, District of Columbia, United States"
+,Mapbox is a location data platform for mobile and web applications.
+,2010
+,571
+,Princeton University
+,Education
+,"Princeton, New Jersey, United States"
+,"Princeton University is a private Ivy League university in Princeton, New Jersey, United States"
+,1764
+,572
+,Yotpo
+,"Content, E-Commerce, Marketing, Social Media Marketing"
+,"New York, New York, United States"
+,"Yotpo is a commerce marketing cloud with the most advanced solutions for customer reviews, visual marketing, loyalty, and referrals."
+,"Feb 3, 2011"
+,573
+,JFrog
+,"Developer Tools, Enterprise Software, Web Development"
+,"Sunnyvale, California, United States"
+,JFrog provides software developers with a binary repository management solution.
+,"Apr 28, 2008"
+,574
+,Pioneer Square Labs
+,"Artificial Intelligence, Enterprise Software, Internet, Machine Learning, Mobile"
+,"Seattle, Washington, United States"
+,Pioneer Square Labs is a startup studio and venture capital fund that creates and launches technology startups.
+,Oct 2015
+,575
+,Becton Dickinson
+,"Biotechnology, Health Care, Medical, Medical Device"
+,"Franklin Lakes, New Jersey, United States"
+,"BD is a medical technology company that serves healthcare institutions, life science researchers, clinical laboratories and the industry."
+,1897
+,576
+,Episerver
+,"Computer, E-Commerce, Software"
+,"Nashua, New Hampshire, United States"
+,"Episerver is a global software company offering web content management, digital commerce, and digital marketing."
+,"Jan 8, 1994"
+,577
+,Pluto TV
+,"Apps, Internet, Media and Entertainment, Video, Video Streaming"
+,"Los Angeles, California, United States"
+,Pluto TV is the leading free streaming television service in America.
+,2013
+,578
+,HomeAway
+,"Advertising, Computer, Peer to Peer, Software, Tourism, Travel"
+,"Austin, Texas, United States"
+,HomeAway enables property owners and managers to market properties for rental to vacation travelers alongside its subsidiaries.
+,Feb 2005
+,579
+,CloudApp
+,"Business Intelligence, Collaboration, Desktop Apps, Developer Tools, Enterprise Software, File Sharing, Mobile, Photo Sharing, Productivity Tools, SaaS, Video, Video Editing"
+,"San Francisco, California, United States"
+,"CloudApp is a video and media sharing platform for organizations, enabling anyone to quickly create, upload and manage visual content."
+,2015
+,580
+,Braintree
+,"Billing, Credit Cards, Payments"
+,"Chicago, Illinois, United States"
+,Braintree's payment platform provides all the tools online and mobile businesses need to accept payments.
+,Oct 2007
+,581
+,Rewalk Robotics
+,"Manufacturing, Medical, Medical Device, Robotics, Wellness"
+,"Marlborough, Massachusetts, United States"
+,Rewalk Robotics provides a commercial walking assistance system for people with lower limb disabilities.
+,2001
+,582
+,Vonage
+,"Messaging, Mobile, Telecommunications"
+,"Holmdel, New Jersey, United States"
+,Vonage offers VoIP services that enable anyone to make and receive calls from a touch tone telephone by using a broadband connection.
+,2001
+,583
+,Bungalow
+,"Communities, Real Estate, Rental, Rental Property, Residential"
+,"San Francisco, California, United States"
+,Bungalow provides home rental services.
+,2016
+,584
+,iHeartMedia
+,"Advertising Platforms, Broadcasting, Outdoor Advertising"
+,"San Antonio, Texas, United States"
+,iHeartMedia is a mass media company that provides a range of multiplatform advertising and marketing opportunities.
+,1972
+,585
+,Payveris
+,"Cloud Computing, Finance, Information Technology, Payments, Software"
+,"Rocky Hill, Connecticut, United States"
+,Payveris operates a cloud-based digital payment and money transfer platform.
+,2011
+,586
+,RetailMeNot
+,"Advertising, Coupons, E-Commerce, Marketplace, Retail"
+,"Austin, Texas, United States"
+,RetailMeNot is a marketplace for online coupons and deals that operates a portfolio of coupon and deal websites.
+,"May 1, 2007"
+,587
+,Change Healthcare
+,"Education, Health Care, Information Technology"
+,"Brentwood, Tennessee, United States"
+,"At Change Healthcare, we are focused on enabling smarter healthcare."
+,2005
+,588
+,Angie's List
+,"Advertising, E-Commerce, Local"
+,"Indianapolis, Indiana, United States"
+,Angie’s List provides trusted reviews and information to help millions of consumers make hiring decisions in hundreds of service categories.
+,1995
+,589
+,Sears Holdings Corporation
+,"Enterprise Software, Mobile, Retail, Shopping"
+,"Hoffman Estates, Illinois, United States"
+,Sears Holdings Corporation is a leading integrated retailer focused on seamlessly connecting the digital and physical shopping experiences
+,2005
+,590
+,Wild Earth
+,"Biotechnology, Consumer, Consumer Goods, Pet, Professional Services"
+,"Berkeley, California, United States"
+,Wild Earth produces pet food.
+,2017
+,591
+,AUrate
+,"E-Commerce, Industrial, Jewelry"
+,"New York, New York, United States"
+,AUrate a startup changing the way people experience the jewelry industry.
+,2015
+,592
+,Lark
+,"Consumer Electronics, Hardware, Health Care, Wellness"
+,"Mountain View, California, United States"
+,"Lark is the leading digital health company using AI & clinical science to deliver scalable, positive health outcomes in chronic disease."
+,2011
+,593
+,Flywheel
+,"Blogging Platforms, Content, Enterprise Software, Software, Web Design, Web Development, Web Hosting"
+,"Omaha, Nebraska, United States"
+,Flywheel is a WordPress hosting and management platform.
+,"Oct 1, 2012"
+,594
+,Shape Security
+,"Cyber Security, Network Security, Security"
+,"Mountain View, California, United States"
+,Shape provides defense against malicious automated cyber-attacks on web and mobile applications.
+,2011
+,595
+,Life360
+,"Android, Apps, Family, Mobile, Mobile Apps"
+,"San Francisco, California, United States"
+,"As world’s largest mobile app for families, Life360 helps families feel closer together."
+,2008
+,596
+,AppDynamics
+,"Business Intelligence, Information Services, Information Technology"
+,"San Francisco, California, United States"
+,AppDynamics develops application performance management (APM) solutions that deliver problem resolution for highly distributed applications.
+,"Apr 1, 2008"
+,597
+,Zyper
+,"Advertising Platforms, Brand Marketing, Computer Vision, Loyalty Programs, Software"
+,"San Francisco, California, United States"
+,Zyper is a machine learning-led community marketing software.
+,"Jul 5, 2017"
+,598
+,Policygenius
+,"Education, Finance, Insurance, InsurTech"
+,"New York, New York, United States"
+,NYC-based tech startup with a mission to help people get the financial protection they need and have them feel good about it.
+,Jul 2014
+,599
+,BlueVine
+,"Finance, FinTech, Small and Medium Businesses"
+,"Redwood City, California, United States"
+,"BlueVine provides small and medium-sized businesses with access to fast and simple financial products through an advanced, online platform."
+,Jul 2013
+,600
+,Klaviyo
+,"Advertising, E-Commerce, Marketing, Shopping, Software"
+,"Boston, Massachusetts, United States"
+,Klaviyo is a marketing automation and email platform designed to help grow businesses.
+,2012
+,601
+,RxRevu
+,"Analytics, Health Care, Hospital, Information Technology"
+,"Denver, Colorado, United States"
+,RxRevu helps patients save money on prescriptions by identifying the most effective medication at the best possible cost to providers.
+,2013
+,602
+,Inhibrx
+,"Biotechnology, Therapeutics"
+,"La Jolla, California, United States"
+,"Inhibrx is a privately held, science-first, self-sustainable biotherapeutic company"
+,2017
+,603
+,ThirdLove
+,"E-Commerce, Fashion, Mobile, Shopping"
+,"San Francisco, California, United States"
+,ThirdLove is an innovative bra and underwear brand that believes fit should come first.
+,2013
+,604
+,Welkin Health
+,"Computer, Health Care, Software"
+,"San Francisco, California, United States"
+,"Patient management software that guides teams through their care, focusing attention on the people who need it, when they need it."
+,"Jul 1, 2013"
+,605
+,Jackpocket
+,"Gambling, Gaming, Mobile, Mobile Apps"
+,"New York, New York, United States"
+,Jackpocket is a mobile-first startup helping to modernize state lotteries.
+,"Apr 29, 2013"
+,606
+,Oasis
+,"Hospitality, Travel"
+,"Miami, Florida, United States"
+,"Oasis is a better way to stay, seamlessly plugging travelers into the world's top destinations."
+,"Mar 1, 2009"
+,607
+,Rubicon Global
+,"Artificial Intelligence, Cloud Computing, Recycling, Sustainability, Waste Management"
+,"Atlanta, Georgia, United States"
+,"Rubicon Global is a technology company that provides waste, recycling, and smart city solutions to businesses and governments worldwide."
+,2008
+,608
+,Duo Security
+,"Cloud Security, Cyber Security, Enterprise Software, Network Security, SaaS"
+,"Ann Arbor, Michigan, United States"
+,Duo Security provides security software products and services.
+,2009
+,609
+,Capsule
+,"E-Commerce, E-Commerce Platforms, Health Care, Pharmaceutical, Retail, Software"
+,"New York, New York, United States"
+,Capsule is a healthcare technology business rebuilding the pharmacy from the inside out
+,May 2016
+,610
+,Bonobos
+,"E-Commerce, Fashion, Retail, Shoes"
+,"New York, New York, United States"
+,Bonobos is an e-commerce driven clothing brand focused on delivering great fit and excellent customer service.
+,"Jun 1, 2007"
+,611
+,SeatGeek
+,"Concerts, Ediscovery, Events, Search Engine, Sports, Ticketing, Vertical Search"
+,"New York, New York, United States"
+,"SeatGeek is a ticket search engine that aggregates ticket listings for live sports, concerts, and theater events"
+,2009
+,612
+,Massachusetts General Hospital
+,"Health Care, Training"
+,"Boston, Massachusetts, United States"
+,Massachusetts General Hospital is the primary teaching hospital of Harvard Medical School and a biomedical research facility.
+,1811
+,613
+,Pandora
+,"Advertising, Broadcasting, Internet, Internet Radio, Music, Navigation, Software, Technical Support, Video Streaming"
+,"Oakland, California, United States"
+,Pandora provides internet radio and recommendation services.
+,"Jan 3, 2000"
+,614
+,WorkSpan
+,"Computer, Marketing, Software"
+,"Foster City, California, United States"
+,"WorkSpan is the only Ecosystem Cloud, where alliance leaders build-with, market-with & sell-with their strategic partners."
+,Jan 2015
+,615
+,MGM Resorts International
+,"Hospitality, Resorts"
+,"Las Vegas, Nevada, United States"
+,"MGM Resorts International is a hospitality firm that operates casinos, restaurants, and recreational resorts."
+,"May 31, 2000"
+,616
+,Bitglass
+,"Cloud Security, IaaS, Information Technology, Mobile, SaaS, Software"
+,"Campbell, California, United States"
+,Bitglass is a Cloud Access Security Broker (CASB) that helps enterprises move to SaaS-based and mobile deployments securely.
+,2013
+,617
+,Cresco Labs
+,"Cannabis, Health Care, Medical, Pharmaceutical"
+,"Chicago, Illinois, United States"
+,Enhancing the lives of Illinois medical cannabis patients and inciting the progressive evolution of the medical cannabis industry.
+,2014
+,618
+,Odyssey
+,"Journalism, News, Social Media"
+,"Indianapolis, Indiana, United States"
+,"Hear people. Bringing complete, broader, trusted ideas to the world."
+,Jun 2009
+,619
+,Feedzai
+,"Analytics, Artificial Intelligence, Big Data, Financial Services, FinTech, Fraud Detection, Information Technology, Risk Management"
+,"San Mateo, California, United States"
+,"Feedzai is AI, with today’s most advanced risk management platform powered by artificial intelligence to make banking and commerce safe."
+,2011
+,620
+,Qualcomm
+,"Manufacturing, Mobile, Telecommunications, Wireless"
+,"San Diego, California, United States"
+,"Qualcomm designs, manufactures, and markets digital wireless telecommunications products and services."
+,"Jan 1, 1985"
+,621
+,Mixlab
+,"Health Care, Personal Health, Pet, Pharmaceutical, Wellness"
+,"New York, New York, United States"
+,Mixlab is a delightful pet pharmacy.
+,2017
+,622
+,Biofourmis
+,"Artificial Intelligence, Machine Learning, mHealth, Personal Health, Predictive Analytics, Therapeutics, Wearables"
+,"Boston, Massachusetts, United States"
+,"At Biofourmis, we augment Personalized Care and Therapies using Digital Therapeutics"
+,"Nov 27, 2015"
+,623
+,Pear Therapeutics
+,"Biotechnology, mHealth, Therapeutics"
+,"Boston, Massachusetts, United States"
+,"Pear discovers, develops, and commercializes Prescription Digital Therapeutics to treat diseases with high unmet need."
+,2013
+,624
+,Republic
+,"Blockchain, Crowdfunding, Cryptocurrency, Finance, Venture Capital"
+,"New York, New York, United States"
+,Republic is an investment platform where everyone can invest as little as $10 in innovative startups and ICOs.
+,Jul 2016
+,625
+,Alnylam Pharmaceuticals
+,"Biotechnology, Health Care, Medical"
+,"Cambridge, Massachusetts, United States"
+,Alnylam Pharmaceuticals develops novel therapeutics-based RNAi and provides overviews of recent drug development programs.
+,2002
+,626
+,Deliv
+,"Crowdsourcing, E-Commerce, Internet, Same Day Delivery"
+,"Menlo Park, California, United States"
+,Deliv is a crowdsourced same-day delivery service for large national multichannel retailers.
+,2012
+,627
+,J2 Global
+,"Cloud Computing, Digital Media, Internet"
+,"Los Angeles, California, United States"
+,J2 Global provides internet facilities through business cloud services and digital media.
+,1995
+,628
+,Ollie
+,"E-Commerce, Food and Beverage, Pet"
+,"New York, New York, United States"
+,"Ollie is a pet wellness brand that delivers freshly cooked, human-grade food tailored to each dog’s nutritional needs."
+,"Oct 5, 2016"
+,629
+,Skip Scooters
+,"Last Mile Transportation, Public Transportation, Rental, Transportation"
+,"San Francisco, California, United States"
+,Skip Scooters operates shared electric scooters for reliable last-mile transportation.
+,2017
+,630
+,Hello Alfred
+,"Grocery, Home Services, Hospitality, Laundry and Dry-cleaning, Professional Services, Retail"
+,"New York, New York, United States"
+,Hello Alfred is a New York-based disruptive commerce channel.
+,Sep 2014
+,631
+,Fractal Analytics
+,"Analytics, Artificial Intelligence, Big Data, Business Intelligence, Consulting, Machine Learning"
+,"San Mateo, California, United States"
+,Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise.
+,"Feb 9, 2000"
+,632
+,Starsky Robotics
+,"Autonomous Vehicles, Robotics, Transportation"
+,"San Francisco, California, United States"
+,Starsky Robotics is a San Francisco-based autonomous trucking company.
+,"Feb 1, 2016"
+,633
+,SolarCity
+,"Construction, Energy Efficiency, Renewable Energy, Solar"
+,"San Mateo, California, United States"
+,"SolarCity provides solar energy services to homeowners, businesses, government, and non-profit organizations."
+,"Jul 4, 2006"
+,634
+,Bento for Business
+,"Financial Services, FinTech, Small and Medium Businesses, Software"
+,"San Francisco, California, United States"
+,Bento offers a complete B2B payments solution that helps SMBs gain full control and visibility over their cash on one platform
+,2014
+,635
+,American Eagle Outfitters
+,"E-Commerce, Fashion, Retail"
+,"Pittsburgh, Pennsylvania, United States"
+,American Eagle Outfitters is an american clothing and accessories retailer.
+,1977
+,636
+,Deep Instinct
+,"Artificial Intelligence, Cyber Security, Machine Learning, Network Security, Security"
+,"New York, New York, United States"
+,"Deep Instinct applies deep learning to cybersecurity, offering unmatched zero-day attack protection."
+,2015
+,637
+,Katerra
+,"Architecture, Construction, Logistics, Mechanical Engineering, Procurement, Product Design, Software, Supply Chain Management"
+,"Menlo Park, California, United States"
+,Katerra is a Silicon Valley startup that is redefining the multi-trillion dollar construction industry.
+,2015
+,638
+,Knotel
+,"Construction, Coworking, E-Commerce, Interior Design, Internet, Real Estate"
+,"New York, New York, United States"
+,"Knotel is the leading Agile HQ solution, designing and operating bespoke spaces for big brands."
+,Nov 2015
+,639
+,Scribd
+,"EBooks, File Sharing, News, Publishing, Social Media, Subscription Service"
+,"San Francisco, California, United States"
+,"Scribd is the unlimited* reading subscription that offers access to the best books, audiobooks, magazine articles, documents and more."
+,Nov 2005
+,640
+,Privateer Holdings
+,"Cannabis, Finance, Financial Services, Venture Capital"
+,"Seattle, Washington, United States"
+,Privateer Holdings is a private equity firm shaping the future of legal cannabis.
+,2011
+,641
+,Capital One
+,"Banking, Credit Cards, Finance, Financial Services"
+,"Mclean, Virginia, United States"
+,"Capital One is a diversified banking company that offers early and later stage venture, and debt financing investments."
+,"Jul 21, 1994"
+,642
+,DroneDeploy
+,"Drones, Internet of Things, Mapping Services, Robotics, SaaS, Software"
+,"San Francisco, California, United States"
+,DroneDeploy is a cloud-based drone mapping and analytics platform to help businesses get things done.
+,2013
+,643
+,Moogsoft
+,"Analytics, Enterprise Software, IT Infrastructure, IT Management, Machine Learning"
+,"San Francisco, California, United States"
+,Moogsoft is a pioneer and leading provider of AIOps solutions that help IT teams work faster and smarter.
+,2011
+,644
+,Versa Networks
+,"Network Hardware, Network Security, Telecommunications"
+,"San Jose, California, United States"
+,Versa Networks is an innovative vendor in the SD-WAN and SD-Security market.
+,Sep 2012
+,645
+,Notarize
+,"Apps, Legal, Legal Tech, Mobile, Software"
+,"Boston, Massachusetts, United States"
+,Notarize enables users to connect with a commissioned Virginia eNotary public by live video call in the United States.
+,May 2015
+,646
+,Peerspace
+,"Collaborative Consumption, Coworking, Event Management, Marketplace, Small and Medium Businesses"
+,"San Francisco, California, United States"
+,"Peerspace is a peer-to-peer marketplace for booking space for events, meetings, and productions."
+,Feb 2014
+,647
+,SunPower
+,"Energy, Renewable Energy, Solar"
+,"San Jose, California, United States"
+,"SunPower Corporation delivers high-performance solar electric systems worldwide for residential, commercial and utility-scale customers."
+,1985
+,648
+,AdHawk
+,"Advertising, Analytics, Marketing"
+,"New York, New York, United States"
+,"AdHawk aggregates a company's total digital marketing data, and offers advertisers one-click optimization solutions."
+,2015
+,649
+,FLYR
+,"Big Data, Predictive Analytics, Travel"
+,"San Francisco, California, United States"
+,FLYR forecasts future fare volatility through complex data analysis.
+,2013
+,650
+,VTS
+,"Asset Management, Commercial Real Estate, Enterprise Software, Financial Services, Leasing, Professional Services, Real Estate, SaaS, Software"
+,"New York, New York, United States"
+,"VTS empowers landlords and brokers to better attract, convert, and retain valuable assets and tenants."
+,2012
