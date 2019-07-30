@@ -4,18 +4,22 @@ import os
 from google.cloud import vision
 from google.cloud.vision import types
 import math
+from google.oauth2 import service_account
+
+#Set application credentials for API. Will not be needed unless multiple credentials are loaded
+#the curent credentials were hard coded into terminal
+credentials = service_account.Credentials.from_service_account_file('/Users/ian/Documents/Capstone/credentials/google.json')
+client = vision.ImageAnnotatorClient(credentials=credentials)
+
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/Users/ian/Documents/Capstone/credentials/google.json"
+
 
 
 def google_vis(image_location):
-    #Set application credentials for API. Will not be needed unless multiple credentials are loaded
-    #the curent credentials were hard coded into terminal
-
-    # Instantiates a client
-    client = vision.ImageAnnotatorClient()
 
     # The name of the image file to annotate
     file_name = os.path.join(
-        os.path.dirname('/Users/ian/Documents/week3/Capstone1/images/'),
+        os.path.dirname('/Users/ian/Documents/Capstone/images2/'),
         image_location)
 
     # Loads the image into memory
@@ -42,16 +46,12 @@ def google_vis(image_location):
     texts = response.text_annotations
 
     read_text = []
-
-    for text in texts:
+    out_vertices = 0
+    for text in texts[1:]:
         read_text.append(text.description)
-
 #     calculates the vertices of the text location
-        vertices = (['({},{})'.format(vertex.x, vertex.y)
-                    for vertex in text.bounding_poly.vertices])
-
-
-        out_vertices = (','.join(vertices))
+        out_vertices += (abs(text.bounding_poly.vertices[0].x - text.bounding_poly.vertices[1].x) 
+        * abs(text.bounding_poly.vertices[0].y - text.bounding_poly.vertices[2].y))/(300*250)
 
 
     ######################################
@@ -77,39 +77,22 @@ def google_vis(image_location):
     #option 2: rounds the color to one of 20 colors and then stores the percentage to a dict
 
 
-    master_color = {'red':(230, 25, 75), 'green':(60, 180, 75), 'yellow':(255, 225, 25), 'blue':(0, 130, 200), 'orange':(245, 130, 48), 'purple':(145, 30, 180), 'cyan':(70, 240, 240), 'magenta':(240, 50, 230), 'lime':(210, 245, 60), 'pink':(250, 190, 190), 'teal':(0, 128, 128), 'lavender':(230, 190, 255), 'brown':(170, 110, 40), 'beige':(255, 250, 200), 'maroon':(128, 0, 0), 'mint':(170, 255, 195), 'olive':(128, 128, 0), 'apricot':(255, 215, 180), 'navy':(0, 0, 128), 'grey':(128, 128, 128), 'white':(255, 255, 255), 'black':(0, 0, 0)}             
-    percent_color = {'apricot': 0,
-     'beige': 0,
-     'black': 0,
-     'blue': 0,
-     'brown': 0,
-     'cyan': 0,
-     'green': 0,
-     'grey': 0,
-     'lavender': 0,
-     'lime': 0,
-     'magenta': 0,
-     'maroon': 0,
-     'mint': 0,
-     'navy': 0,
-     'olive': 0,
-     'orange': 0,
-     'pink': 0,
-     'purple': 0,
-     'red': 0,
-     'teal': 0,
-     'white': 0,
-     'yellow': 0}
+    master_color = {'red':(255, 0, 0), 'green':(0, 255, 0), 'yellow':(255, 255, 0), 'blue':(0, 0, 255), 'orange':(255, 160, 0), 'cyan':(0, 255, 255), 'magenta':(255, 0, 255), 'brown':(165,42,42), 'white':(255, 255, 255), 'black':(0, 0, 0)}             
+    
+    percent_color = {'red':0, 'green':0, 'yellow':0, 'blue':0, 'orange':0, 'cyan':0, 'magenta':0, 'brown':0, 'white':0, 'black':0}
 
 
+    color_list =[]
+    for color in props.dominant_colors.colors:
+        color_list.append(color.score)
+    color_denominator = sum(color_list)
     for color in props.dominant_colors.colors:
         point = (color.color.red), (color.color.green), (color.color.blue),
-        fraction = (color.pixel_fraction)
         colors = list(master_color.values())
         closest_colors = sorted(colors, key=lambda color: distance(color, point))
         closest_color = closest_colors[0]
         code = list(master_color.keys())[list(master_color.values()).index(closest_color)]
-        percent_color[code] += fraction 
+        percent_color[code] += (color.score / color_denominator)
 
 
     ######################################
@@ -168,8 +151,13 @@ def google_vis(image_location):
     """Detects faces in an image."""
     response = client.face_detection(image=image)
     faces = response.face_annotations
+    
+    if faces:
+        vertices = 1
+    else:
+        vertices = 0
 
-    return (percent_color, read_text, out_vertices, faces)
+    return (percent_color, read_text, out_vertices, vertices)
 
     # Names of likelihood from google.cloud.vision.enums
 #     likelihood_name = ('UNKNOWN', 'VERY_UNLIKELY', 'UNLIKELY', 'POSSIBLE',
