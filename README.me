@@ -6,26 +6,22 @@ Presentation https://drive.google.com/drive/folders/1ROdH2bQmJ1z6IisExzwFxlVSs8c
 Description: Running machine learning over digital creatives to gain insights on industry trends
 
 Motivation:
+AdCypher
+Understanding digital creative performance using machine learning
 
-Eight years experience working in digital advertising helping companies better understand what features in creative are driving KPIs and how messaging is altering consumer perception.
 
-EDA OVERVIEW:
-Scrapy and Splash were employed to scrap advertising creative off MOAT. 
-After calling for a predefined company, the code captures a JSON file being pushed through an AJAX call that is updated using JAVA on the site. 
-Once gathered, meta data regarding the image is stored in a dataframe along with a link to the image which is saved down onto the hard drive.
-Upon completion of collection and cleaning, the image is then sent into Google’s Vision AI API and processed. 
-Currently three modules are loaded into the system which read and pass back all the text, labels the creative, and finally passes back what colors are being used and what fraction of the creative they take up.
+Project Description:
+With digital advertising spend surpassing one hundred billion dollars annually, the industry’s need for increased measurement and insights particularly in the creative space has become critical. When designing a campaign teams build strategies to alter consumer perception of a brand and design the verbiage, calls to action, or the color schemes and layout to echo the message a brand. Understanding which components within the creative are working, is a difficult challenge with very few descriptive products in market. AdCypher uses machine learning to scan thousands of images to identify whether a creative will be successful and to provide some insights as to what is driving the performance.
 
-CONCLUSION
-What did you learn about your data?
-Creatives have very consistant verbage usage. 
-Keywords typically include straight forward call to actions with action oriented verbiage.
-White is by far the most common used color to keep spacing. Layout is critical and it must be simple. Lots of white space is used to keep the focus point on a few key areas of the creative.
+Data Pipeline:
+AdCypher scrapes two websites and connects into two APIs to build out its data pipeline. The first step is gathering information regarding a wide variety of entities including businesses, colleges, and governments agencies, who conduct marketing campaigns in the US. Information about the age of the entity, size, web traffic, industry and more are scraped. Next, the display advertisements from those companies from 2014 to present are scraped and stored locally. Finally, those images are scanned to understand the spacing, color scheme, verbiage, and content used in the ad. Finally the keywords used in each ad are pushed into Google trends to see if consumers searched for those keywords while a campaign was on versus when it was off. Campaigns that successfully drive lift in Google Trends are labeled as successful and used as targets in the model.
 
-What did you learn about data science?
-Building and cleaning data sets is by far the most labor intensive part of the job. Most modules have already been built and are easy to work with.
+Modeling:
+Multiple classification algorithms including Random Forest, Logistic Regression and Gradient Decent were run over the data to see if the model’s features were able to predict if a campaign will be successful. Topic modeling techniques such as SVD were used to interpret the text used in the ads. After tuning hyper parameters the Random Forest model generated an accuracy score of 81%. Verbiage, age of company, campaign length, and spacing were the most important features in determining a campaign’s performance.
 
-What advice would you give yourself?
-Don't scrape websites for data. It's too labor intensive
-Do you want to continue with this topic?
-Yes
+Interesting Findings:
+The most commonly used color, blue, actually decreases the likelihood of an ad being successful by 6%.
+Educational terminology such as the word learn leads to a greater chance of consumers googling the company. 
+Including a photo of a consumer smiling and engaging with the product remains one of the most powerful contributors to a successful campaign
+Campaigns which last between one and four months are top performers.
+Companies who are between 0-10 or 20-30 years old generate the highest increases in Google searches
